@@ -41375,3 +41375,96 @@ End Object
 [2021.01.28-18.04.45:784][721]LogSlate: Window 'Source Control Login' being destroyed
 [2021.01.28-18.08.13:856][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
 [2021.01.28-18.08.13:860][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Example_map_01' took 0.053
+[2021.01.28-18.08.41:791][641]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-18.08.41:800][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-18.08.41:800][641]PIE: New page: PIE session: Example_map_01 (28 Jan 2021, 20:08:41)
+[2021.01.28-18.08.41:801][641]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Example_map_01
+[2021.01.28-18.08.41:862][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061465s)
+[2021.01.28-18.08.41:863][641]LogAIModule: Creating AISystem for world Example_map_01
+[2021.01.28-18.08.41:864][641]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2021.01.28-18.08.41:864][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Example_map_01.Example_map_01 to /Game/Platformer/Maps/UEDPIE_0_Example_map_01.Example_map_01 (0.063111s)
+[2021.01.28-18.08.41:905][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.01.28-18.08.41:906][641]LogAudio: Display: Creating Audio Device:                 Id: 149, Scope: Unique, Realtime: True
+[2021.01.28-18.08.41:906][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-18.08.41:906][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-18.08.41:906][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-18.08.41:906][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-18.08.41:906][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-18.08.41:906][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-18.08.41:906][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-18.08.41:906][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-18.08.41:907][641]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-18.08.41:907][641]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-18.08.41:909][641]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-18.08.41:909][641]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-18.08.41:917][641]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.28-18.08.41:917][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-18.08.41:917][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-18.08.41:917][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-18.08.41:918][641]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-18.08.41:918][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.28-18.08.41:918][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.28-18.08.41:932][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.28-18.08.41:932][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.28-18.08.41:932][641]LogInit: FAudioDevice initialized.
+[2021.01.28-18.08.41:932][641]LogAudio: Display: Audio Device (ID: 149) registered with world 'Example_map_01'.
+[2021.01.28-18.08.41:944][641]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.28-18.08.41:975][641]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Example_map_01.Example_map_01 up for play (max tick rate 0) at 2021.01.28-19.08.41
+[2021.01.28-18.08.41:976][641]LogWorld: Bringing up level for play took: 0.030960
+[2021.01.28-18.08.41:976][641]LogOnline: OSS: Creating online subsystem instance for: :Context_172
+[2021.01.28-18.08.41:982][641]PIE: Server logged in
+[2021.01.28-18.08.41:983][641]PIE: Play in editor total start time 0.183 seconds.
+[2021.01.28-18.08.44:233][782]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=72.989 Y=-237.448 Z=681.268] for [FirstPersonProjectile_C]
+[2021.01.28-18.08.45:069][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-18.08.45:069][831]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_Example_map_01
+[2021.01.28-18.08.45:070][831]LogWorld: UWorld::CleanupWorld for Example_map_01, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-18.08.45:074][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-18.08.45:085][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-18.08.45:100][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-18.08.45:139][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-18.08.45:142][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.28-18.08.45:143][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.28-18.08.45:169][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.01.28-18.08.45:222][832]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2021.01.28-18.08.49:267][145]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.01.28-18.08.49:267][145]LogWindows: Warning: URL: C:/Users/Usuario/Documents/GitHub/IV/IV version
+[2021.01.28-18.09.13:104][554]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.01.28-18.09.34:803][  4]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.01.28-18.10.02:020][568]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.28-18.10.11:353][264]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.28-18.10.15:338][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.01.28-18.10.15:381][516]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/FirstPersonExampleMap4A1F84B24B26ACA959F3E491F854D93B.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.28-18.10.15:385][516]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.100
+[2021.01.28-18.10.15:407][516]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.28-18.10.15:408][516]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Content: 'D:/UE/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.18:626][711]SourceControl: fatal: D:/UE/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Usuario/Documents/GitHub/IV'
+[2021.01.28-18.10.19:767][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.01.28-18.10.19:807][711]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/FirstPersonExampleMapFFA97A8C42DD4A71BE1F2DB21174FDB8.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.28-18.10.19:812][711]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.091
+[2021.01.28-18.10.29:080][711]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.28-18.10.29:660][711]LogSourceControl: commit successful: [development f4d1777] Si
+[2021.01.28-18.10.29:696][711]SourceControl: [development f4d1777] Si
+[2021.01.28-18.10.29:696][711]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.01.28-18.10.29:703][711]SourceControl: Commited [development f4d1777] Si.
+[2021.01.28-18.10.29:743][712]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.28-18.10.29:743][712]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
