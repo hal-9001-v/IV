@@ -2,6 +2,206 @@
 	"AssetInfoVersion": 1,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "2E38822F89E1A311F41F802102F3D3EC27E06C0E",
+			"Assets": [
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF8AB0DEC54D0A000E162C47884F631C24B4DA34",
+			"Assets": [
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C0E2C7C03EF103E416E0745B291A7769F8E8F7A8",
+			"Assets": [
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "94CB72591BFB1AA0F8993301571CBEC81649DBD4",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C896AACBBDA69174F0D49DC8A600CB4F90C5A5EC",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB5E11B28283545CCAFA183A2E746550620D50FF",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D944EEA2302ACCECDA96F730945B315BAC1AC457",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F68A11DA801E58E7F72F6D430A21B24CFEB86162",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/FoliageBrushSphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3F0599148E151A65F48CAF685A348E26BDB98AB",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/MaskBrushMaterial_Gizmo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9AA775908A7A780C42BB2C0D1389152F7BDEE250",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/PatternBrushMaterial_Smooth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B95A5A45EABAF617D23E1319900ECD621233613F",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9998BD4F5094BB03C1FDC719C243109A233F7B83",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Tip.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BDDA4A66E9ABCE2EE29724549378D673E317E48D",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Spherical.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D7BF64B0C8949FAA14364C02F5D254D370DB0D50",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "80CE37BD068CFE2DE8E34A45078C01ECA2994678",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Smooth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "325DB577321CE5E3EA217F13E595848C6ADE00DA",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/MirrorPlaneMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D931507DAF3A6A6E66971F9184029BA4A888CF9",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A0E09ADA2CE7DDE46109091F457A468B906249EC",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2B291607C4C058A5EEB9865E24E0A994C1579EBD",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/LandscapeDirtyMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "216F5EC8FB0977C7D24FDEB1F301720A3C086B08",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "433010E396CDF9C7EE078C8E8A3E4293BE5BD729",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/MaskBrushMaterial.uasset",
+				"../../../Engine/Content/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72778DA0578B4A8B0AA6E62205BDFA617808CDB1",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E80F8095189D3BF53C5AC52D59B68A894D3E4543",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/SelectBrushMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF19AEDAA1ADFC657ED6C6C83C3A5BFFDDE1E7BA",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "F9AC30FABEAC784E70831BBD20944736F796FA37",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset"
@@ -96,12 +296,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "95A9C889EB13EA19CEECC7FDC65A0CA823E5266C",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Geometry/Meshes/CubeMaterial.uasset"
@@ -123,6 +317,12 @@
 			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "95A9C889EB13EA19CEECC7FDC65A0CA823E5266C",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
 			]
 		},
 		{

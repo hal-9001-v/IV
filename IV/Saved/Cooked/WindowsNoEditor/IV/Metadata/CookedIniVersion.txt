@@ -1516,7 +1516,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFil
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:17=...\*.upluginmanifest
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:18=...\*.uproject
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:19=...\global_sf*.metalmap
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=Always
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Usuario/Desktop/Mariont")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
@@ -1663,18 +1663,17 @@ Windows.Input:/Script/Engine.InputSettings:bAltEnterTogglesFullscreen:0=True
 Windows.Input:/Script/Engine.InputSettings:bF11TogglesFullscreen:0=True
 Windows.Input:/Script/Engine.InputSettings:bRequireCtrlToNavigateAutoComplete:0=False
 Windows.Input:/Script/Engine.InputSettings:bEnableGestureRecognizer:0=False
-Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
 Windows.Input:/Script/Engine.InputSettings:TriggerKeyIsConsideredPressed:0=0.75
 Windows.Input:/Script/Engine.InputSettings:TriggerKeyIsConsideredReleased:0=0.25
 Windows.Input:/Script/Engine.InputSettings:InitialButtonRepeatDelay:0=0.2
 Windows.Input:/Script/Engine.InputSettings:ButtonRepeatDelay:0=0.1
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:0=(AxisKeyName="Gamepad_LeftX",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:1=(AxisKeyName="Gamepad_LeftY",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:2=(AxisKeyName="Gamepad_RightX",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:3=(AxisKeyName="Gamepad_RightY",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:4=(AxisKeyName="MouseX",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:5=(AxisKeyName="MouseY",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:6=(AxisKeyName="Mouse2D",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:0=(AxisKeyName="MagicLeap_Right_Trackpad_X",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:1=(AxisKeyName="MagicLeap_Right_Trackpad_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:2=(AxisKeyName="MagicLeap_Right_Trackpad_Force",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:3=(AxisKeyName="MagicLeap_Right_Touch1_X",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:4=(AxisKeyName="MagicLeap_Right_Touch1_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:5=(AxisKeyName="MagicLeap_Right_Touch1_Force",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:6=(AxisKeyName="Mouse2D",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))
 Windows.Input:/Script/Engine.InputSettings:AxisConfig:7=(AxisKeyName="Gamepad_LeftX",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
 Windows.Input:/Script/Engine.InputSettings:AxisConfig:8=(AxisKeyName="Gamepad_LeftY",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
 Windows.Input:/Script/Engine.InputSettings:AxisConfig:9=(AxisKeyName="Gamepad_RightX",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
@@ -1779,12 +1778,6 @@ Windows.Input:/Script/Engine.InputSettings:AxisConfig:107=(AxisKeyName="MagicLea
 Windows.Input:/Script/Engine.InputSettings:AxisConfig:108=(AxisKeyName="MagicLeap_Left_Touch1_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
 Windows.Input:/Script/Engine.InputSettings:AxisConfig:109=(AxisKeyName="MagicLeap_Left_Touch1_Force",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
 Windows.Input:/Script/Engine.InputSettings:AxisConfig:110=(AxisKeyName="MagicLeap_Right_Trigger_Axis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:111=(AxisKeyName="MagicLeap_Right_Trackpad_X",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:112=(AxisKeyName="MagicLeap_Right_Trackpad_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:113=(AxisKeyName="MagicLeap_Right_Trackpad_Force",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:114=(AxisKeyName="MagicLeap_Right_Touch1_X",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:115=(AxisKeyName="MagicLeap_Right_Touch1_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:116=(AxisKeyName="MagicLeap_Right_Touch1_Force",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
 Windows.Input:/Script/Engine.InputSettings:bUseMouseForTouch:0=False
 Windows.Input:/Script/Engine.InputSettings:bCaptureMouseOnLaunch:0=True
 Windows.Input:/Script/Engine.InputSettings:bUseAutocorrect:0=False
@@ -1815,6 +1808,8 @@ Windows.Input:/Script/Engine.InputSettings:ActionMappings:21=(ActionName="ResetV
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:22=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MagicLeap_Right_Trigger)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:23=(ActionName="Fire",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MagicLeap_Right_Trackpad_Touch)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:24=(ActionName="ResetVR",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MagicLeap_Right_Bumper)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:25=(ActionName="Pause",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_Special_Right)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:26=(ActionName="Pause",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=P)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveForward",Scale=1.000000,Key=W)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveForward",Scale=-1.000000,Key=S)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveForward",Scale=1.000000,Key=Up)
@@ -1845,6 +1840,9 @@ Windows.Input:/Script/Engine.InputSettings:AxisMappings:26=(AxisName="MoveRight"
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:27=(AxisName="MoveForward",Scale=1.000000,Key=MagicLeap_Left_Trackpad_Y)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:28=(AxisName="MoveForward",Scale=1.000000,Key=MagicLeap_Right_Trackpad_Y)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:29=(AxisName="MoveRight",Scale=1.000000,Key=MagicLeap_Right_Trackpad_X)
+Windows.Input:/Script/Engine.InputSettings:DefaultPlayerInputClass:0=/Script/Engine.PlayerInput
+Windows.Input:/Script/Engine.InputSettings:DefaultInputComponentClass:0=/Script/Engine.InputComponent
+Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:0=(Key=F11,Command="LevelEditor.ToggleImmersive", bIgnoreCtrl=True, bIgnoreAlt=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:1=(Key=F11,Command="MainFrame.ToggleFullscreen",Shift=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:2=(Key=F1,Command="viewmode wireframe", bIgnoreShift=True)
@@ -2047,6 +2045,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:UsingXGE:0=False
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandCustomClassPickerClassList:0=True
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:0=(Parent="Matinee", CommandName="Matinee_PlayForward", Description="Matinee_PlayForward_Desc", ExecCommand="Matinee Play")
@@ -4338,10 +4337,10 @@ RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F=2
 OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=4
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
-NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
+NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17
 AudioSynesthesiaVer:82E77C4E332343A5B46B13C597310DF3=0
 EditableMeshVer:FB26E4121F154B4D9372550A961D2F70=3
