@@ -832,3 +832,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.28-23.42.39:632][437]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.01.28-23.42.39:633][437]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,374ms to complete.
 [2021.01.28-23.42.39:633][437]LogFileHelpers: Loading map 'MapaFinalMariano' took 0.256
+[2021.01.28-23.48.18:221][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.01.28-23.48.19:373][543]LogSavePackage: Moving 'C:/Users/Carlos/Documents/GitHub/IV/IV/Saved/MapaFinalMariano92A6A9A5443C9D705AFAC48350219D02.tmp' to 'C:/Users/Carlos/Documents/GitHub/IV/IV/Content/Platformer/Maps/MapaFinalMariano.umap'
+[2021.01.28-23.48.19:425][543]AssetCheck: New page: Asset Save: MapaFinalMariano
+[2021.01.28-23.48.19:425][543]LogContentValidation: Display: Validating World /Game/Platformer/Maps/MapaFinalMariano.MapaFinalMariano
