@@ -41373,3 +41373,5 @@ End Object
 [2021.01.28-18.04.36:599][312]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2021.01.28-18.04.45:784][721]SourceControl: Source control is disabled
 [2021.01.28-18.04.45:784][721]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.28-18.08.13:856][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.01.28-18.08.13:860][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Example_map_01' took 0.053
