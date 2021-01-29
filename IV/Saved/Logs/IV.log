@@ -3412,3 +3412,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-16.52.04:075][991]LogSavePackage: Moving '../../../../Proyectos Unreal/IV/IV/Saved/IADEMIERDA_Auto6595BAAFA4C2D81D4094A188ACA2A1C58.tmp' to '../../../../Proyectos Unreal/IV/IV/Saved/Autosaves/Game/Maps/IADEMIERDA_Auto6.umap'
 [2021.01.29-16.52.04:077][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IADEMIERDA' took 0.047
 [2021.01.29-16.52.04:077][991]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.01.29-16.56.02:684][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MatPreviewMesh_01)
+[2021.01.29-16.58.05:842][339]Cmd: TRANSACTION UNDO
+[2021.01.29-16.58.05:842][339]LogEditorTransaction: Undo Move Actors
+[2021.01.29-16.58.21:433][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-17.00.53:417][865]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-17.00.53:434][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-17.00.53:434][865]PIE: New page: PIE session: IADEMIERDA (Jan 29, 2021, 7:00:53 PM)
+[2021.01.29-17.00.53:465][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IADEMIERDA
+[2021.01.29-17.00.53:475][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010290s)
+[2021.01.29-17.00.53:476][865]LogAIModule: Creating AISystem for world IADEMIERDA
+[2021.01.29-17.00.53:478][865]LogPlayLevel: PIE: World Init took: (0.002351s)
+[2021.01.29-17.00.53:478][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IADEMIERDA.IADEMIERDA to /Game/Maps/UEDPIE_0_IADEMIERDA.IADEMIERDA (0.013167s)
+[2021.01.29-17.00.53:521][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.01.29-17.00.53:578][865]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.01.29-17.00.53:578][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-17.00.53:578][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-17.00.53:578][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-17.00.53:579][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-17.00.53:579][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-17.00.53:579][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-17.00.53:579][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-17.00.53:579][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-17.00.53:579][865]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-17.00.53:579][865]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-17.00.53:606][865]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-17.00.53:606][865]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-17.00.53:687][865]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.01.29-17.00.53:688][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-17.00.53:688][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-17.00.53:688][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-17.00.53:720][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-17.00.53:720][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-17.00.53:720][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-17.00.53:722][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-17.00.53:722][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-17.00.53:722][865]LogInit: FAudioDevice initialized.
+[2021.01.29-17.00.53:722][865]LogAudio: Display: Audio Device (ID: 39) registered with world 'IADEMIERDA'.
+[2021.01.29-17.00.53:765][865]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-17.00.53:767][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IADEMIERDA.IADEMIERDA up for play (max tick rate 60) at 2021.01.29-18.00.53
+[2021.01.29-17.00.53:767][865]LogWorld: Bringing up level for play took: 0.001445
+[2021.01.29-17.00.53:768][865]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.01.29-17.00.53:783][865]PIE: Server logged in
+[2021.01.29-17.00.53:784][865]PIE: Play in editor total start time 0.36 seconds.
+[2021.01.29-17.00.53:919][868]PIE: Warning: FirstPersonProjectile_C_0.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.54:426][898]PIE: Warning: FirstPersonProjectile_C_1.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.54:943][928]PIE: Warning: FirstPersonProjectile_C_3.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.55:443][958]PIE: Warning: FirstPersonProjectile_C_5.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.55:942][988]PIE: Warning: FirstPersonProjectile_C_6.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.56:444][ 18]PIE: Warning: FirstPersonProjectile_C_8.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.56:944][ 48]PIE: Warning: FirstPersonProjectile_C_10.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.57:643][ 54]PIE: Warning: FirstPersonProjectile_C_14.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.58:143][ 77]PIE: Warning: FirstPersonProjectile_C_15.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2021.01.29-17.00.58:638][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-17.00.58:638][105]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IADEMIERDA
+[2021.01.29-17.00.58:638][105]LogWorld: UWorld::CleanupWorld for IADEMIERDA, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-17.00.58:638][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-17.00.58:707][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-17.00.58:726][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-17.00.58:756][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-17.00.58:756][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-17.00.58:757][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-17.00.58:786][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-17.00.58:790][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.29-17.00.58:927][106]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.01.29-17.02.09:962][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.01.29-17.02.10:121][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/IADEMIERDA" FILE="../../../../Proyectos Unreal/IV/IV/Saved/Autosaves/Game/Maps/IADEMIERDA_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.29-17.02.10:387][579]LogSavePackage: Moving '../../../../Proyectos Unreal/IV/IV/Saved/IADEMIERDA_Auto7FE2106A7484839F00A74CB8C46462C45.tmp' to '../../../../Proyectos Unreal/IV/IV/Saved/Autosaves/Game/Maps/IADEMIERDA_Auto7.umap'
+[2021.01.29-17.02.10:416][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IADEMIERDA' took 0.608
+[2021.01.29-17.02.10:416][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.608
