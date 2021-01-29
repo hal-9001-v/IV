@@ -51,12 +51,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -66,6 +60,12 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -220,6 +220,36 @@
 			]
 		},
 		{
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C896AACBBDA69174F0D49DC8A600CB4F90C5A5EC",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB5E11B28283545CCAFA183A2E746550620D50FF",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D944EEA2302ACCECDA96F730945B315BAC1AC457",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPerson/Meshes/BaseMaterial.uasset"
@@ -250,15 +280,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C9C975DBDA1A0872E27EC47324985B82D8BC8E6E",
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Materials/CelShader.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "974E234E86EC9AEB88317FFA142CC782A13EA9E0",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Presets/CelShaderWatercolour.uasset"
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
 			]
 		},
 		{
@@ -274,9 +298,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"ShaderMapHash": "C9C975DBDA1A0872E27EC47324985B82D8BC8E6E",
 			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Materials/CelShader.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "974E234E86EC9AEB88317FFA142CC782A13EA9E0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Presets/CelShaderWatercolour.uasset"
 			]
 		},
 		{
