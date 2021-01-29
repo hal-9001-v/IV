@@ -1152,3 +1152,83 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-01.01.22:049][196]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.29-01.01.22:049][196]LogContentValidation: Display: Validating World /Game/Platformer/Maps/test.test
 [2021.01.29-01.01.22:049][196]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/test_BuiltData.test_BuiltData
+[2021.01.29-01.03.56:068][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/RodilloConPinchos" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Blueprints/RodilloConPinchos.uasset" SILENT=true
+[2021.01.29-01.03.56:093][587]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/RodilloConPinchosBC99C1144C2A7E486B749A933C8BA6D9.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Blueprints/RodilloConPinchos.uasset'
+[2021.01.29-01.03.56:109][587]AssetCheck: New page: Asset Save: RodilloConPinchos
+[2021.01.29-01.03.56:109][587]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/RodilloConPinchos.RodilloConPinchos
+[2021.01.29-01.04.16:468][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2021.01.29-01.04.16:547][942]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/FirstPersonCharacter8C875F9246B79B12C25538816910F8C0.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-01.04.16:564][942]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-01.04.16:564][942]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-01.04.17:938][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-01.04.17:948][ 11]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.29-01.04.17:958][ 11]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.01.29-01.04.18:098][ 11]LogPlayLevel: [PlayLevel] Compiling RodilloConPinchos before play...
+[2021.01.29-01.04.18:221][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.01.29-01.04.18:222][ 11]LogPlayLevel: PlayLevel: Blueprint regeneration took 273 ms (2 blueprints)
+[2021.01.29-01.04.18:222][ 11]PIE: New page: PIE session: test (29 Jan 2021, 03:04:18)
+[2021.01.29-01.04.18:245][ 11]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-01.04.18:323][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078044s)
+[2021.01.29-01.04.18:324][ 11]LogAIModule: Creating AISystem for world test
+[2021.01.29-01.04.18:325][ 11]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2021.01.29-01.04.18:325][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.079550s)
+[2021.01.29-01.04.18:370][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.01.29-01.04.18:370][ 11]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-01.04.18:370][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-01.04.18:370][ 11]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-01.04.18:370][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-01.04.18:373][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-01.04.18:373][ 11]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-01.04.18:380][ 11]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-01.04.18:380][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-01.04.18:380][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-01.04.18:380][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-01.04.18:381][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-01.04.18:381][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-01.04.18:381][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-01.04.18:393][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-01.04.18:393][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-01.04.18:393][ 11]LogInit: FAudioDevice initialized.
+[2021.01.29-01.04.18:393][ 11]LogAudio: Display: Audio Device (ID: 6) registered with world 'test'.
+[2021.01.29-01.04.18:404][ 11]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-01.04.18:437][ 11]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-02.04.18
+[2021.01.29-01.04.18:438][ 11]LogWorld: Bringing up level for play took: 0.033980
+[2021.01.29-01.04.18:438][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.01.29-01.04.18:443][ 11]PIE: Server logged in
+[2021.01.29-01.04.18:444][ 11]PIE: Play in editor total start time 0.497 seconds.
+[2021.01.29-01.04.19:593][ 66]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-30.042 Y=-1768.920 Z=875.623] for [FirstPersonProjectile_C]
+[2021.01.29-01.04.29:845][630]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2557.799 Y=2332.940 Z=1814.721] for [FirstPersonProjectile_C]
+[2021.01.29-01.04.40:522][224]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.372 Y=1168.306 Z=414.893] for [FirstPersonProjectile_C]
+[2021.01.29-01.04.54:806][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-01.04.54:806][ 22]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-01.04.54:807][ 22]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-01.04.54:812][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-01.04.54:821][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-01.04.54:833][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-01.04.54:874][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-01.04.54:878][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-01.04.54:879][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-01.04.54:905][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.01.29-01.04.54:957][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.01.29-01.04.55:596][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-01.04.55:640][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.01.29-01.04.55:961][ 58]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/testCCDA09B44C08BE2083412DAF3E4A9E7C.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap'
+[2021.01.29-01.04.55:979][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test_BuiltData" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset" SILENT=true
+[2021.01.29-01.04.56:491][ 58]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test_BuiltData52C22BFD4BA2212FBDDE7995839B0CF1.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset'
+[2021.01.29-01.04.56:507][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-01.04.56:507][ 58]LogContentValidation: Display: Validating World /Game/Platformer/Maps/test.test
+[2021.01.29-01.04.56:507][ 58]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/test_BuiltData.test_BuiltData
+[2021.01.29-01.04.56:932][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.29-01.04.58:165][ 78]LogSlate: Window 'Save Content' being destroyed
+[2021.01.29-01.04.58:244][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.01.29-01.04.58:270][ 78]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/FirstPersonExampleMap166BE3C243C7EA8D590052BD4961B28A.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-01.04.58:275][ 78]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.078
+[2021.01.29-01.04.58:290][ 78]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.29-01.04.58:290][ 78]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
