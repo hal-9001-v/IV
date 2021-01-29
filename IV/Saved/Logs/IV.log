@@ -10708,3 +10708,47 @@ Make sure 'FirstPersonProjectile' has been compiled for  Take Damage
 [2021.01.29-22.43.29:832][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Enemies/Enemy]
 [2021.01.29-22.43.29:846][978]LogSavePackage: Moving '../../../../Proyectos Unreal/IV/IV/Saved/Enemy_Auto5E62E8AC4485C105874BCBFB713669851.tmp' to '../../../../Proyectos Unreal/IV/IV/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Enemies/Enemy_Auto5.uasset'
 [2021.01.29-22.43.29:848][978]LogFileHelpers: Auto-saving content packages took 0.468
+[2021.01.29-22.48.12:287][971]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Itachi\Downloads\obj-Burning_Cube_by_3DHaupt\Burning_Cube_by_3DHaupt-(Wavefront OBJ).obj)
+[2021.01.29-22.48.12:715][971]LogFbx: Loading FBX Scene from C:\Users\Itachi\Downloads\obj-Burning_Cube_by_3DHaupt\Burning_Cube_by_3DHaupt-(Wavefront OBJ).obj
+[2021.01.29-22.48.15:055][971]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.29-22.48.24:687][971]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.29-22.48.26:251][971]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2021.01.29-22.48.27:092][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.29-22.48.27:092][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.01.29-22.48.27:092][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.29-22.48.27:092][971]LogFbx: Display: Triangulating static mesh default
+[2021.01.29-22.48.32:904][971]LogStaticMesh: Building static mesh Burning_Cube_by_3DHaupt-_Wavefront_OBJ_...
+[2021.01.29-22.48.36:256][971]LogStaticMesh: Built static mesh [3.46s] /Game/FirstPersonBP/Blueprints/Enemies/Burning_Cube_by_3DHaupt-_Wavefront_OBJ_.Burning_Cube_by_3DHaupt-_Wavefront_OBJ_
+[2021.01.29-22.48.36:905][971]LogStaticMesh: Warning: Burning_Cube_by_3DHaupt-_Wavefront_OBJ_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.29-22.48.36:905][971]LogStaticMesh: Warning: Burning_Cube_by_3DHaupt-_Wavefront_OBJ_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.29-22.48.37:595][971]FBXImport: Warning: Burning_Cube_by_3DHaupt-_Wavefront_OBJ_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.29-22.48.37:595][971]FBXImport: Warning: Burning_Cube_by_3DHaupt-_Wavefront_OBJ_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.29-22.48.41:620][ 10]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPersonBP/Blueprints/Enemies/Burning_Cube_by_3DHaupt-_Wavefront_OBJ_.Burning_Cube_by_3DHaupt-_Wavefront_OBJ_
+[2021.01.29-22.48.57:384][ 11]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-22.49.29:329][ 51]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.49.29:329][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-22.49.49:201][249]LogUObjectHash: Compacting FUObjectHashTables data took  28.40ms
+[2021.01.29-22.49.52:169][249]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.29-22.49.56:263][249]LogUObjectHash: Compacting FUObjectHashTables data took  68.76ms
+[2021.01.29-22.50.34:060][908]LogSlate: Window 'EnemyTurret' being destroyed
+[2021.01.29-22.50.34:085][908]LogSlate: Window 'EnemyTurret' being destroyed
+[2021.01.29-22.50.34:220][908]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.50.34:220][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-22.50.42:542][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-22.50.42:542][908]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.50.42:542][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-22.50.46:659][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-22.50.46:659][908]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.50.46:659][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-22.50.48:465][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-22.50.48:465][908]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.50.48:465][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-22.50.49:623][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-22.50.49:623][908]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.50.49:623][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-22.50.51:660][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-22.50.51:660][908]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.50.51:660][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-22.50.52:906][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-22.50.52:906][908]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-22.50.52:906][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
