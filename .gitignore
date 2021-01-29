@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 IV/Saved/StagedBuilds/WindowsNoEditor/IV/Content/Paks/IV-WindowsNoEditor.pak
+IV.log
