@@ -976,3 +976,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-12.26.02:650][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/MapaFinalMariano' took 1.169
 [2021.01.29-12.26.02:650][274]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.169
 [2021.01.29-12.34.52:779][468]Cmd: SELECT NONE
+[2021.01.29-12.38.47:242][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/PlataformaMóvil.PlataformaMóvil
