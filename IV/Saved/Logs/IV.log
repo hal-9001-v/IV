@@ -1677,3 +1677,492 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-12.26.01:899][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.29-12.26.01:906][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
 [2021.01.29-12.26.01:955][888]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.01.29-12.28.29:684][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/PlataformaMóvil" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Blueprints/PlataformaMóvil.uasset" SILENT=true
+[2021.01.29-12.28.29:699][100]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/PlataformaMóvil34241FEA4A14949F0B1F58BAD550A50B.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Blueprints/PlataformaMóvil.uasset'
+[2021.01.29-12.28.29:713][100]AssetCheck: New page: Asset Save: PlataformaMóvil
+[2021.01.29-12.28.29:713][100]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/PlataformaMóvil.PlataformaMóvil
+[2021.01.29-12.28.59:194][886]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.29-12.29.41:939][436]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetAllActorsOfClass' [Element not found.]
+[2021.01.29-12.29.46:774][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewPlayerController" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/NewPlayerController.uasset" SILENT=true
+[2021.01.29-12.29.46:786][928]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/NewPlayerController7B45BE44439546A8529F2CAD1BD9AB69.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/NewPlayerController.uasset'
+[2021.01.29-12.29.46:802][928]AssetCheck: New page: Asset Save: NewPlayerController
+[2021.01.29-12.29.46:802][928]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/NewPlayerController.NewPlayerController
+[2021.01.29-12.29.48:868][146]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-12.29.48:878][146]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.29-12.29.48:878][146]LogPlayLevel: [PlayLevel] Compiling NewPlayerController before play...
+[2021.01.29-12.29.48:921][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.29-12.29.48:923][146]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2021.01.29-12.29.48:923][146]PIE: New page: PIE session: test (29 Jan 2021, 14:29:48)
+[2021.01.29-12.29.48:952][146]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.29.49:026][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074266s)
+[2021.01.29-12.29.49:027][146]LogAIModule: Creating AISystem for world test
+[2021.01.29-12.29.49:028][146]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2021.01.29-12.29.49:028][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.076050s)
+[2021.01.29-12.29.49:056][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.29-12.29.49:056][146]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.01.29-12.29.49:056][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-12.29.49:056][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-12.29.49:056][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-12.29.49:056][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-12.29.49:056][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-12.29.49:056][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-12.29.49:056][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-12.29.49:056][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-12.29.49:057][146]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-12.29.49:057][146]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-12.29.49:060][146]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-12.29.49:060][146]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-12.29.49:067][146]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-12.29.49:068][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-12.29.49:068][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-12.29.49:068][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-12.29.49:069][146]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-12.29.49:069][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-12.29.49:069][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-12.29.49:080][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-12.29.49:080][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-12.29.49:080][146]LogInit: FAudioDevice initialized.
+[2021.01.29-12.29.49:080][146]LogAudio: Display: Audio Device (ID: 15) registered with world 'test'.
+[2021.01.29-12.29.49:088][146]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-12.29.49:120][146]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.29-12.29.49:120][146]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-13.29.49
+[2021.01.29-12.29.49:121][146]LogWorld: Bringing up level for play took: 0.032211
+[2021.01.29-12.29.49:121][146]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.01.29-12.29.49:126][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.29.49:127][146]PIE: Server logged in
+[2021.01.29-12.29.49:127][146]PIE: Play in editor total start time 0.25 seconds.
+[2021.01.29-12.29.52:836][532]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 1 in '/Game/FirstPersonBP/Blueprints/NewPlayerController.NewPlayerController_C:ExecuteUbergraph_NewPlayerController'!
+[2021.01.29-12.29.57:271][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.29.57:271][996]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.29.57:272][996]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.29.57:277][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.29.57:291][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-12.29.57:301][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.29.57:326][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.29.57:330][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.29.57:331][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.29.57:351][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.01.29-12.29.57:390][997]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.01.29-12.29.57:724][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-12.29.57:751][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.29-12.29.58:074][ 30]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test91CDEC7141FFFBF9B569649A23835094.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap'
+[2021.01.29-12.29.58:093][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test_BuiltData" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset" SILENT=true
+[2021.01.29-12.29.58:605][ 30]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test_BuiltDataC31571A74585062D358A27B0EC85253D.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset'
+[2021.01.29-12.29.58:619][ 30]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-12.29.58:619][ 30]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/test_BuiltData.test_BuiltData
+[2021.01.29-12.29.58:619][ 30]LogContentValidation: Display: Validating World /Game/Platformer/Maps/test.test
+[2021.01.29-12.30.06:024][595]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.29-12.30.11:024][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/MainMenuChar.MainMenuChar
+[2021.01.29-12.30.26:357][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuChar" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset" SILENT=true
+[2021.01.29-12.30.26:365][408]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/MainMenuChar1F198974467A06B0B816739BC66F388A.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset'
+[2021.01.29-12.30.26:377][408]AssetCheck: New page: Asset Save: MainMenuChar
+[2021.01.29-12.30.26:377][408]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/MainMenuChar.MainMenuChar
+[2021.01.29-12.30.33:585][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform_rnd)
+[2021.01.29-12.30.35:174][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform)
+[2021.01.29-12.30.35:648][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform)
+[2021.01.29-12.30.36:092][214]LogEditorViewport: Clicking on Actor (LMB): MainMenuChar_C (MainMenuChar)
+[2021.01.29-12.30.42:309][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OceanWater2)
+[2021.01.29-12.30.43:709][902]LogEditorViewport: Clicking on Actor (LMB): MainMenuChar_C (MainMenuChar)
+[2021.01.29-12.30.48:819][334]Cmd: SELECT NONE
+[2021.01.29-12.30.50:293][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-12.30.50:326][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.01.29-12.30.50:649][480]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/testE08AB36D4F31C1D5B2E0BFBE6137927E.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap'
+[2021.01.29-12.30.50:666][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test_BuiltData" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset" SILENT=true
+[2021.01.29-12.30.51:175][480]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test_BuiltData9C404D63472CBB58CC76E48B89F54021.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset'
+[2021.01.29-12.30.51:190][480]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-12.30.51:190][480]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/test_BuiltData.test_BuiltData
+[2021.01.29-12.30.51:190][480]LogContentValidation: Display: Validating World /Game/Platformer/Maps/test.test
+[2021.01.29-12.30.52:281][548]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-12.30.52:292][548]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.29-12.30.52:292][548]LogPlayLevel: [PlayLevel] Compiling MainMenuChar before play...
+[2021.01.29-12.30.52:337][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.01.29-12.30.52:338][548]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2021.01.29-12.30.52:338][548]PIE: New page: PIE session: test (29 Jan 2021, 14:30:52)
+[2021.01.29-12.30.52:338][548]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.30.52:412][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073708s)
+[2021.01.29-12.30.52:413][548]LogAIModule: Creating AISystem for world test
+[2021.01.29-12.30.52:413][548]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2021.01.29-12.30.52:414][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.075423s)
+[2021.01.29-12.30.52:441][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.29-12.30.52:441][548]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.01.29-12.30.52:441][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-12.30.52:441][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-12.30.52:441][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-12.30.52:441][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-12.30.52:441][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-12.30.52:441][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-12.30.52:441][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-12.30.52:441][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-12.30.52:442][548]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-12.30.52:442][548]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-12.30.52:444][548]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-12.30.52:444][548]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-12.30.52:451][548]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-12.30.52:451][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-12.30.52:451][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-12.30.52:451][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-12.30.52:451][548]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-12.30.52:451][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-12.30.52:451][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-12.30.52:463][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-12.30.52:463][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-12.30.52:463][548]LogInit: FAudioDevice initialized.
+[2021.01.29-12.30.52:463][548]LogAudio: Display: Audio Device (ID: 16) registered with world 'test'.
+[2021.01.29-12.30.52:469][548]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-12.30.52:500][548]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.29-12.30.52:501][548]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-13.30.52
+[2021.01.29-12.30.52:501][548]LogWorld: Bringing up level for play took: 0.031045
+[2021.01.29-12.30.52:502][548]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.01.29-12.30.52:507][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.30.52:507][548]PIE: Server logged in
+[2021.01.29-12.30.52:508][548]PIE: Play in editor total start time 0.216 seconds.
+[2021.01.29-12.30.58:161][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.30.58:161][ 97]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.30.58:162][ 97]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.30.58:167][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.30.58:179][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-12.30.58:185][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.30.58:210][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.30.58:214][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.30.58:215][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.30.58:236][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.01.29-12.30.58:267][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.01.29-12.30.58:958][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuChar" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset" SILENT=true
+[2021.01.29-12.30.58:965][163]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/MainMenuCharDFF0DD9B43293345259A478EDE252681.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset'
+[2021.01.29-12.30.58:975][163]AssetCheck: New page: Asset Save: MainMenuChar
+[2021.01.29-12.30.58:975][163]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/MainMenuChar.MainMenuChar
+[2021.01.29-12.31.30:428][524]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.29-12.32.20:863][ 50]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.29-12.32.39:463][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuChar" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset" SILENT=true
+[2021.01.29-12.32.39:477][ 21]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/MainMenuCharE45FD4B049813DAD6DA21E80606D2CF5.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset'
+[2021.01.29-12.32.39:488][ 21]AssetCheck: New page: Asset Save: MainMenuChar
+[2021.01.29-12.32.39:488][ 21]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/MainMenuChar.MainMenuChar
+[2021.01.29-12.32.40:581][141]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-12.32.40:591][141]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.29-12.32.40:592][141]LogPlayLevel: [PlayLevel] Compiling MainMenuChar before play...
+[2021.01.29-12.32.40:642][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.01.29-12.32.40:643][141]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2021.01.29-12.32.40:643][141]PIE: New page: PIE session: test (29 Jan 2021, 14:32:40)
+[2021.01.29-12.32.40:679][141]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.32.40:752][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073080s)
+[2021.01.29-12.32.40:753][141]LogAIModule: Creating AISystem for world test
+[2021.01.29-12.32.40:754][141]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2021.01.29-12.32.40:754][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.074684s)
+[2021.01.29-12.32.40:783][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.01.29-12.32.40:783][141]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-12.32.40:784][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-12.32.40:784][141]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-12.32.40:784][141]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-12.32.40:786][141]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-12.32.40:786][141]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-12.32.40:793][141]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-12.32.40:793][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-12.32.40:793][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-12.32.40:793][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-12.32.40:794][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-12.32.40:794][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-12.32.40:794][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-12.32.40:805][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-12.32.40:805][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-12.32.40:806][141]LogInit: FAudioDevice initialized.
+[2021.01.29-12.32.40:806][141]LogAudio: Display: Audio Device (ID: 17) registered with world 'test'.
+[2021.01.29-12.32.40:814][141]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-12.32.40:844][141]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.29-12.32.40:845][141]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-13.32.40
+[2021.01.29-12.32.40:845][141]LogWorld: Bringing up level for play took: 0.030521
+[2021.01.29-12.32.40:845][141]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.01.29-12.32.40:850][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.32.40:850][141]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.29-12.32.40:850][141]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.29-12.32.40:850][141]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.29-12.32.40:851][141]PIE: Server logged in
+[2021.01.29-12.32.40:851][141]PIE: Play in editor total start time 0.26 seconds.
+[2021.01.29-12.32.44:539][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.32.44:540][480]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.32.44:541][480]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.32.44:546][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.32.44:554][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-12.32.44:560][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.32.44:586][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.32.44:590][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.32.44:591][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.32.44:612][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.29-12.32.44:647][481]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.01.29-12.32.46:023][633]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pl_8m_Platform2)
+[2021.01.29-12.32.49:463][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuChar" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset" SILENT=true
+[2021.01.29-12.32.49:475][999]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/MainMenuChar5081667C40468CF05D6B57BEF95AF6AA.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset'
+[2021.01.29-12.32.49:487][999]AssetCheck: New page: Asset Save: MainMenuChar
+[2021.01.29-12.32.49:487][999]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/MainMenuChar.MainMenuChar
+[2021.01.29-12.33.09:685][157]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-12.33.09:695][157]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.29-12.33.09:695][157]LogPlayLevel: [PlayLevel] Compiling NewPlayerController before play...
+[2021.01.29-12.33.09:741][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.29-12.33.09:743][157]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2021.01.29-12.33.09:743][157]PIE: New page: PIE session: test (29 Jan 2021, 14:33:09)
+[2021.01.29-12.33.09:743][157]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.09:816][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073840s)
+[2021.01.29-12.33.09:817][157]LogAIModule: Creating AISystem for world test
+[2021.01.29-12.33.09:817][157]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2021.01.29-12.33.09:817][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.075197s)
+[2021.01.29-12.33.09:845][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.29-12.33.09:846][157]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.01.29-12.33.09:846][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-12.33.09:846][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-12.33.09:846][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-12.33.09:846][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-12.33.09:846][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-12.33.09:846][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-12.33.09:846][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-12.33.09:846][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-12.33.09:847][157]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-12.33.09:847][157]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-12.33.09:849][157]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-12.33.09:849][157]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-12.33.09:856][157]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-12.33.09:856][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-12.33.09:856][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-12.33.09:856][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-12.33.09:856][157]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-12.33.09:856][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-12.33.09:856][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-12.33.09:868][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-12.33.09:868][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-12.33.09:869][157]LogInit: FAudioDevice initialized.
+[2021.01.29-12.33.09:869][157]LogAudio: Display: Audio Device (ID: 18) registered with world 'test'.
+[2021.01.29-12.33.09:880][157]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-12.33.09:909][157]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.29-12.33.09:910][157]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-13.33.09
+[2021.01.29-12.33.09:910][157]LogWorld: Bringing up level for play took: 0.029960
+[2021.01.29-12.33.09:910][157]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.01.29-12.33.09:915][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.09:915][157]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.29-12.33.09:915][157]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.29-12.33.09:915][157]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.29-12.33.09:916][157]PIE: Server logged in
+[2021.01.29-12.33.09:916][157]PIE: Play in editor total start time 0.223 seconds.
+[2021.01.29-12.33.12:620][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.12:620][423]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.12:621][423]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.33.12:626][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.12:633][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-12.33.12:649][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.12:675][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.12:679][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.12:680][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.12:701][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.01.29-12.33.12:745][424]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.01.29-12.33.22:899][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuChar" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset" SILENT=true
+[2021.01.29-12.33.22:911][492]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/MainMenuChar3DB4FFA74B04A19FAE55B59E68D92B13.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset'
+[2021.01.29-12.33.22:923][492]AssetCheck: New page: Asset Save: MainMenuChar
+[2021.01.29-12.33.22:923][492]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/MainMenuChar.MainMenuChar
+[2021.01.29-12.33.23:704][561]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-12.33.23:715][561]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.29-12.33.23:715][561]LogPlayLevel: [PlayLevel] Compiling MainMenuChar before play...
+[2021.01.29-12.33.23:763][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.01.29-12.33.23:764][561]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2021.01.29-12.33.23:764][561]PIE: New page: PIE session: test (29 Jan 2021, 14:33:23)
+[2021.01.29-12.33.23:764][561]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.23:838][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073501s)
+[2021.01.29-12.33.23:839][561]LogAIModule: Creating AISystem for world test
+[2021.01.29-12.33.23:839][561]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2021.01.29-12.33.23:839][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.074853s)
+[2021.01.29-12.33.23:868][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.29-12.33.23:868][561]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-12.33.23:868][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-12.33.23:868][561]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-12.33.23:868][561]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-12.33.23:871][561]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-12.33.23:871][561]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-12.33.23:877][561]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-12.33.23:878][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-12.33.23:878][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-12.33.23:878][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-12.33.23:878][561]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-12.33.23:878][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-12.33.23:878][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-12.33.23:879][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-12.33.23:879][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-12.33.23:879][561]LogInit: FAudioDevice initialized.
+[2021.01.29-12.33.23:879][561]LogAudio: Display: Audio Device (ID: 19) registered with world 'test'.
+[2021.01.29-12.33.23:895][561]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-12.33.23:927][561]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.29-12.33.23:927][561]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-13.33.23
+[2021.01.29-12.33.23:928][561]LogWorld: Bringing up level for play took: 0.032532
+[2021.01.29-12.33.23:928][561]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.01.29-12.33.23:933][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.23:933][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.23:933][561]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.29-12.33.23:933][561]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.29-12.33.23:934][561]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.29-12.33.23:934][561]PIE: Server logged in
+[2021.01.29-12.33.23:935][561]PIE: Play in editor total start time 0.221 seconds.
+[2021.01.29-12.33.25:890][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.25:890][747]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.25:891][747]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.33.25:896][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.25:903][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-12.33.25:921][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.25:946][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.25:949][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.25:950][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.25:971][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.01.29-12.33.26:016][748]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.01.29-12.33.34:332][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuChar" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset" SILENT=true
+[2021.01.29-12.33.34:346][639]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/MainMenuCharB2B7D7E440FF9CD05A7926982443E8CF.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/MainMenuChar.uasset'
+[2021.01.29-12.33.34:357][639]AssetCheck: New page: Asset Save: MainMenuChar
+[2021.01.29-12.33.34:357][639]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/MainMenuChar.MainMenuChar
+[2021.01.29-12.33.35:251][723]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-12.33.35:260][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-12.33.35:260][723]PIE: New page: PIE session: test (29 Jan 2021, 14:33:35)
+[2021.01.29-12.33.35:299][723]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.35:373][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074469s)
+[2021.01.29-12.33.35:374][723]LogAIModule: Creating AISystem for world test
+[2021.01.29-12.33.35:375][723]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2021.01.29-12.33.35:375][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.075787s)
+[2021.01.29-12.33.35:403][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.01.29-12.33.35:405][723]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-12.33.35:405][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-12.33.35:405][723]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-12.33.35:405][723]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-12.33.35:407][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-12.33.35:407][723]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-12.33.35:414][723]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-12.33.35:414][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-12.33.35:414][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-12.33.35:414][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-12.33.35:415][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-12.33.35:415][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-12.33.35:415][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-12.33.35:427][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-12.33.35:427][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-12.33.35:427][723]LogInit: FAudioDevice initialized.
+[2021.01.29-12.33.35:427][723]LogAudio: Display: Audio Device (ID: 20) registered with world 'test'.
+[2021.01.29-12.33.35:434][723]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-12.33.35:465][723]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.29-12.33.35:465][723]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-13.33.35
+[2021.01.29-12.33.35:466][723]LogWorld: Bringing up level for play took: 0.030788
+[2021.01.29-12.33.35:466][723]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.01.29-12.33.35:471][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.35:471][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.35:471][723]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.29-12.33.35:471][723]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.29-12.33.35:471][723]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.29-12.33.35:472][723]PIE: Server logged in
+[2021.01.29-12.33.35:472][723]PIE: Play in editor total start time 0.213 seconds.
+[2021.01.29-12.33.37:449][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.37:449][922]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.37:450][922]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.33.37:455][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.37:464][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-12.33.37:481][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.37:507][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.37:511][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.37:512][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.37:533][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.01.29-12.33.37:579][923]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.01.29-12.33.55:091][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2021.01.29-12.33.55:183][515]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/FirstPersonCharacter7FCACC6449B47F63393EE083775DC6E9.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-12.33.55:194][515]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-12.33.55:194][515]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-12.33.56:023][579]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-12.33.56:034][579]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.29-12.33.56:038][579]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.01.29-12.33.56:154][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.01.29-12.33.56:155][579]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2021.01.29-12.33.56:155][579]PIE: New page: PIE session: test (29 Jan 2021, 14:33:56)
+[2021.01.29-12.33.56:155][579]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.56:231][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076026s)
+[2021.01.29-12.33.56:232][579]LogAIModule: Creating AISystem for world test
+[2021.01.29-12.33.56:232][579]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2021.01.29-12.33.56:232][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.077744s)
+[2021.01.29-12.33.56:261][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.01.29-12.33.56:261][579]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.01.29-12.33.56:261][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-12.33.56:261][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-12.33.56:261][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-12.33.56:261][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-12.33.56:261][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-12.33.56:261][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-12.33.56:261][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-12.33.56:261][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-12.33.56:262][579]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-12.33.56:262][579]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-12.33.56:264][579]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-12.33.56:264][579]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-12.33.56:271][579]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.29-12.33.56:271][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-12.33.56:271][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-12.33.56:271][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-12.33.56:271][579]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-12.33.56:271][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-12.33.56:271][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-12.33.56:283][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-12.33.56:283][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-12.33.56:283][579]LogInit: FAudioDevice initialized.
+[2021.01.29-12.33.56:283][579]LogAudio: Display: Audio Device (ID: 21) registered with world 'test'.
+[2021.01.29-12.33.56:293][579]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-12.33.56:322][579]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.29-12.33.56:323][579]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.29-13.33.56
+[2021.01.29-12.33.56:323][579]LogWorld: Bringing up level for play took: 0.029599
+[2021.01.29-12.33.56:323][579]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.01.29-12.33.56:328][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.56:328][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.56:329][579]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.29-12.33.56:329][579]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.29-12.33.56:329][579]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.29-12.33.56:329][579]PIE: Server logged in
+[2021.01.29-12.33.56:329][579]PIE: Play in editor total start time 0.296 seconds.
+[2021.01.29-12.33.58:589][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.58:590][756]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.29-12.33.58:590][756]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.33.58:595][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.58:605][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-12.33.58:622][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.33.58:648][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-12.33.58:652][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.58:653][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-12.33.58:673][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.01.29-12.33.58:710][757]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.01.29-12.33.59:085][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-12.33.59:114][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.01.29-12.33.59:438][783]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test7DAEEAF54AAE73BECDCBAEA721E9EF2C.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap'
+[2021.01.29-12.33.59:454][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test_BuiltData" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset" SILENT=true
+[2021.01.29-12.33.59:971][783]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test_BuiltDataB8256B5C45CA1F52AB3EA98170E8769E.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset'
+[2021.01.29-12.33.59:985][783]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-12.33.59:985][783]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/test_BuiltData.test_BuiltData
+[2021.01.29-12.33.59:985][783]LogContentValidation: Display: Validating World /Game/Platformer/Maps/test.test
+[2021.01.29-12.34.02:785][ 22]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/MainMenu.MainMenu
+[2021.01.29-12.35.04:704][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewPlayerController" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/NewPlayerController.uasset" SILENT=true
+[2021.01.29-12.35.04:716][521]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/NewPlayerController498F33584D596BDF97E26F99A36F4B62.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/NewPlayerController.uasset'
+[2021.01.29-12.35.04:728][521]AssetCheck: New page: Asset Save: NewPlayerController
+[2021.01.29-12.35.04:728][521]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/NewPlayerController.NewPlayerController
+[2021.01.29-12.35.10:889][120]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/GUI.GUI
+[2021.01.29-12.35.14:340][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2021.01.29-12.35.36:387][240]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/PauseMenu.PauseMenu
+[2021.01.29-12.36.04:347][923]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.36.04:347][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.36.06:287][104]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.36.06:287][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-12.36.06:301][104]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-12.36.06:302][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
