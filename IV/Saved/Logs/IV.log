@@ -1371,3 +1371,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-12.09.55:716][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.01.29-12.09.55:736][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
 [2021.01.29-12.09.55:789][344]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.01.29-12.10.43:460][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
