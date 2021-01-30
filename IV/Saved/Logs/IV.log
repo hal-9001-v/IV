@@ -962,3 +962,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-04.11.30:949][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.01.30-04.11.30:969][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2021.01.30-04.11.30:999][141]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.30-04.12.10:295][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.30-04.12.10:453][672]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/MapaFinalMariano.MapaFinalMariano
+[2021.01.30-04.12.10:453][672]Cmd: MAP LOAD FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/MapaFinalMariano.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-04.12.10:453][672]LightingResults: New page: Lighting Build
+[2021.01.30-04.12.10:453][672]LoadErrors: New page: Loading map: MapaFinalMariano.umap
+[2021.01.30-04.12.10:486][672]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-04.12.10:486][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-04.12.10:487][672]MapCheck: New page: Map Check
+[2021.01.30-04.12.10:487][672]LightingResults: New page: Lighting Build
+[2021.01.30-04.12.10:500][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-04.12.10:513][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.01.30-04.12.10:514][672]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapaFinalMariano'.
+[2021.01.30-04.12.10:671][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-04.12.10:671][672]LogAIModule: Creating AISystem for world MapaFinalMariano
+[2021.01.30-04.12.10:687][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.30-04.12.10:701][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-04.12.10:701][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.254ms to complete.
+[2021.01.30-04.12.10:701][672]LogFileHelpers: Loading map 'MapaFinalMariano' took 0.248
+[2021.01.30-04.12.11:649][762]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-04.12.11:659][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-04.12.11:659][762]PIE: New page: PIE session: MapaFinalMariano (30 Jan 2021, 06:12:11)
+[2021.01.30-04.12.11:659][762]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_MapaFinalMariano
+[2021.01.30-04.12.11:731][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072944s)
+[2021.01.30-04.12.11:732][762]LogAIModule: Creating AISystem for world MapaFinalMariano
+[2021.01.30-04.12.11:732][762]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2021.01.30-04.12.11:732][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/MapaFinalMariano.MapaFinalMariano to /Game/Platformer/Maps/UEDPIE_0_MapaFinalMariano.MapaFinalMariano (0.074052s)
+[2021.01.30-04.12.11:738][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.30-04.12.11:739][762]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-04.12.11:739][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-04.12.11:739][762]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-04.12.11:739][762]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-04.12.11:742][762]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-04.12.11:742][762]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-04.12.11:749][762]LogAudioMixer: Display: Using Audio Device Auriculares (TaoTronics TT-BH085 Stereo)
+[2021.01.30-04.12.11:749][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-04.12.11:749][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-04.12.11:749][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-04.12.11:749][762]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-04.12.11:749][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-04.12.11:749][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-04.12.11:761][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-04.12.11:761][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-04.12.11:761][762]LogInit: FAudioDevice initialized.
+[2021.01.30-04.12.11:761][762]LogAudio: Display: Audio Device (ID: 4) registered with world 'MapaFinalMariano'.
+[2021.01.30-04.12.11:773][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-04.12.11:802][762]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_MapaFinalMariano.MapaFinalMariano up for play (max tick rate 0) at 2021.01.30-05.12.11
+[2021.01.30-04.12.11:802][762]LogWorld: Bringing up level for play took: 0.028678
+[2021.01.30-04.12.11:803][762]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.30-04.12.11:807][762]PIE: Server logged in
+[2021.01.30-04.12.11:807][762]PIE: Play in editor total start time 0.149 seconds.
+[2021.01.30-04.12.13:298][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7.933 Y=-1606.914 Z=885.082] for [FirstPersonProjectile_C]
+[2021.01.30-04.12.19:116][634]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=468.273 Y=3314.179 Z=231.732] for [FirstPersonProjectile_C]
+[2021.01.30-04.12.22:857][ 83]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.30-04.12.22:857][ 83]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.30-04.12.22:857][ 83]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.30-04.12.23:815][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-04.12.23:815][198]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.30-04.12.23:815][198]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.30-04.12.26:492][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=982.756 Y=10184.687 Z=1010.512] for [FirstPersonProjectile_C]
+[2021.01.30-04.12.44:507][678]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9265.555 Y=4852.630 Z=855.727] for [FirstPersonProjectile_C]
+[2021.01.30-04.12.46:066][865]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10164.791 Y=4001.727 Z=1259.089] for [FirstPersonProjectile_C]
+[2021.01.30-04.12.49:016][219]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9021.397 Y=2619.479 Z=2074.806] for [FirstPersonProjectile_C]
+[2021.01.30-04.12.58:958][412]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4277.367 Y=4320.642 Z=2070.642] for [FirstPersonProjectile_C]
+[2021.01.30-04.13.09:151][635]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13637.594 Y=7352.942 Z=320.652] for [FirstPersonProjectile_C]
+[2021.01.30-04.13.13:194][120]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14887.006 Y=12354.979 Z=325.363] for [FirstPersonProjectile_C]
+[2021.01.30-04.13.14:016][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-04.13.14:016][213]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_MapaFinalMariano
+[2021.01.30-04.13.14:016][213]LogWorld: UWorld::CleanupWorld for MapaFinalMariano, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-04.13.14:021][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-04.13.14:032][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-04.13.14:034][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-04.13.14:039][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-04.13.14:039][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-04.13.14:040][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-04.13.14:053][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-04.13.14:066][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.30-04.13.14:093][214]LogPlayLevel: Display: Destroying online subsystem :Context_8
