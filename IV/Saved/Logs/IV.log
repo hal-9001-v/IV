@@ -2102,3 +2102,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-21.22.25:724][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2021.01.30-21.22.25:766][ 16]LogExit: Editor shut down
 [2021.01.30-21.22.25:967][ 16]LogExit: Transaction tracking system shut down
+[2021.01.30-21.22.54:180][ 16]LogExit: Object subsystem successfully closed.
+[2021.01.30-21.22.55:451][ 16]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.30-21.23.04:406][ 16]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (806)
+[2021.01.30-21.23.04:441][ 16]LogModuleManager: Shutting down and abandoning module Voice (804)
+[2021.01.30-21.23.04:454][ 16]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (802)
+[2021.01.30-21.23.04:467][ 16]LogModuleManager: Shutting down and abandoning module BlueprintGraph (800)
+[2021.01.30-21.23.04:506][ 16]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (798)
+[2021.01.30-21.23.04:513][ 16]LogModuleManager: Shutting down and abandoning module SceneOutliner (796)
+[2021.01.30-21.23.04:513][ 16]LogModuleManager: Shutting down and abandoning module AddContentDialog (794)
+[2021.01.30-21.23.04:855][ 16]LogModuleManager: Shutting down and abandoning module WidgetCarousel (793)
+[2021.01.30-21.23.04:855][ 16]LogModuleManager: Shutting down and abandoning module EditorWidgets (790)
+[2021.01.30-21.23.04:856][ 16]LogModuleManager: Shutting down and abandoning module StatsViewer (788)
+[2021.01.30-21.23.04:870][ 16]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (786)
+[2021.01.30-21.23.04:877][ 16]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (784)
+[2021.01.30-21.23.04:878][ 16]LogModuleManager: Shutting down and abandoning module AutomationWorker (782)
+[2021.01.30-21.23.04:883][ 16]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (780)
+[2021.01.30-21.23.04:883][ 16]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (778)
+[2021.01.30-21.23.04:883][ 16]LogModuleManager: Shutting down and abandoning module WebMMedia (776)
+[2021.01.30-21.23.04:890][ 16]LogModuleManager: Shutting down and abandoning module GooglePADEditor (774)
+[2021.01.30-21.23.04:916][ 16]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (772)
+[2021.01.30-21.23.04:933][ 16]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (770)
+[2021.01.30-21.23.05:102][ 16]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (768)
+[2021.01.30-21.23.05:169][ 16]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (766)
+[2021.01.30-21.23.05:217][ 16]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (764)
+[2021.01.30-21.23.05:238][ 16]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (762)
+[2021.01.30-21.23.05:238][ 16]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (760)
+[2021.01.30-21.23.05:238][ 16]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (758)
+[2021.01.30-21.23.05:267][ 16]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (756)
+[2021.01.30-21.23.05:292][ 16]LogModuleManager: Shutting down and abandoning module SequenceRecorder (755)
+[2021.01.30-21.23.05:293][ 16]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (752)
