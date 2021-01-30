@@ -9064,3 +9064,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-19.34.34:837][391]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.01.30-19.34.34:837][391]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
 [2021.01.30-19.34.34:837][391]LogFileHelpers: Loading map 'OverView' took 0.277
+[2021.01.30-19.35.02:076][583]AssetReimport: New page: Outstanding source content changes 21:35:02
+[2021.01.30-19.35.02:077][583]LogEditorFactories: Performing atomic reimport of [C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Sprites/EmptyButton.png]
+[2021.01.30-19.35.02:077][583]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Sprites/EmptyButton.png)
+[2021.01.30-19.35.02:124][583]LogEditorFactories: -- imported successfully
+[2021.01.30-19.35.02:358][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/EmptyButton" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Sprites/EmptyButton.uasset" SILENT=true
+[2021.01.30-19.35.02:376][583]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/EmptyButtonFEDE21C6402612002B04EFA2C55201C6.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Sprites/EmptyButton.uasset'
+[2021.01.30-19.35.02:418][584]AssetCheck: New page: Asset Save: EmptyButton
+[2021.01.30-19.35.02:419][584]LogContentValidation: Display: Validating Texture2D /Game/Sprites/EmptyButton.EmptyButton
+[2021.01.30-19.35.05:455][593]AssetReimport: Reimported asset EmptyButton from C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Sprites/EmptyButton.png.
