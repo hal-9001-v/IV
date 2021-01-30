@@ -38,16 +38,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
 			"Assets": [
-				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
-				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
-			"Assets": [
-				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -60,12 +53,6 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -87,6 +74,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
 			"Assets": [
 				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
@@ -96,12 +89,6 @@
 			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
 			"Assets": [
 				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
-			"Assets": [
-				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
 			]
 		},
 		{
@@ -168,7 +155,8 @@
 		{
 			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
 			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/Banana.uasset"
 			]
 		},
 		{
@@ -228,7 +216,8 @@
 		{
 			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
 			]
 		},
 		{
@@ -247,6 +236,36 @@
 			"ShaderMapHash": "D944EEA2302ACCECDA96F730945B315BAC1AC457",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84FBF87C413B2A62F7F07448EFC7BD01B25FCED0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Wood_Dark_Parent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB4DFF73BEA8F541962BC3DBFCDC9CFE93C14796",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59003A9E11A8255F8B7F4EEC04AB8F5A29703605",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Metal_Black_Parent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "961E8B9F65E9008D0B30029825D459E592D3A1B8",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Crate_Light_Parent.uasset"
 			]
 		},
 		{
@@ -280,9 +299,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"ShaderMapHash": "C9C975DBDA1A0872E27EC47324985B82D8BC8E6E",
 			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Materials/CelShader.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "974E234E86EC9AEB88317FFA142CC782A13EA9E0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Presets/CelShaderWatercolour.uasset"
 			]
 		},
 		{
@@ -298,19 +323,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C9C975DBDA1A0872E27EC47324985B82D8BC8E6E",
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Materials/CelShader.uasset"
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "974E234E86EC9AEB88317FFA142CC782A13EA9E0",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Presets/CelShaderWatercolour.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C8F7AEDBD93A4DCBC3B6918214E2144E7535D237",
+			"ShaderMapHash": "49B7F936DE9101446178B02D4924849B75FE2961",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Tree.uasset"
 			]
@@ -319,13 +338,6 @@
 			"ShaderMapHash": "735FB68457850664C4D65EFCE22C15E8791C4B45",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Plants.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "961E8B9F65E9008D0B30029825D459E592D3A1B8",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Crate_Light_Parent.uasset",
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Wood_Dark_Parent.uasset"
 			]
 		},
 		{
@@ -398,9 +410,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "59003A9E11A8255F8B7F4EEC04AB8F5A29703605",
+			"ShaderMapHash": "94CB72591BFB1AA0F8993301571CBEC81649DBD4",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Metal_Black_Parent.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Metal_Steel.uasset"
 			]
 		},
 		{
