@@ -790,3 +790,181 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-13.56.12:850][614]LogSavePackage: Moving 'C:/Users/Carlos/Documents/GitHub/IV/IV/Saved/FirstPersonExampleMap71E5F591493A208CC8DAB89AC8EF7A9E.tmp' to 'C:/Users/Carlos/Documents/GitHub/IV/IV/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2021.01.30-13.56.12:879][614]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2021.01.30-13.56.12:879][614]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-15.17.56:104][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.30-15.17.56:574][491]LogBlueprint: Error: [AssetLog] C:\Users\Carlos\Documents\GitHub\IV\IV\Content\Platformer\Blueprints\CheckPoint.uasset: [Compiler] In use pin  Check ID  no longer exists on node  Reach Check Point . Please refresh node or break links to remove pin.
+[2021.01.30-15.17.56:631][491]LogBlueprint: Warning: [AssetLog] C:\Users\Carlos\Documents\GitHub\IV\IV\Content\Platformer\Blueprints\Pl_Coin_01.uasset: [Compiler] Could not find a variable named "CoinCount" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  Set CoinCount
+[2021.01.30-15.17.56:631][491]LogBlueprint: Warning: [AssetLog] C:\Users\Carlos\Documents\GitHub\IV\IV\Content\Platformer\Blueprints\Pl_Coin_01.uasset: [Compiler] Could not find a variable named "CoinCount" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  Get CoinCount
+[2021.01.30-15.17.56:641][491]LogBlueprint: Error: [AssetLog] C:\Users\Carlos\Documents\GitHub\IV\IV\Content\Platformer\Blueprints\Pl_Coin_01.uasset: [Compiler] The property associated with  Coin Count  could not be found in '/Game/Platformer/Blueprints/Pl_Coin_01.Pl_Coin_01_C'
+[2021.01.30-15.17.56:641][491]LogBlueprint: Error: [AssetLog] C:\Users\Carlos\Documents\GitHub\IV\IV\Content\Platformer\Blueprints\Pl_Coin_01.uasset: [Compiler] The property associated with  Coin Count  could not be found in '/Game/Platformer/Blueprints/Pl_Coin_01.Pl_Coin_01_C'
+[2021.01.30-15.17.58:105][491]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave coin...
+[2021.01.30-15.17.58:105][491]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/coin.coin will be modified from 40 to 40.
+[2021.01.30-15.17.58:207][491]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 40762 while cooking SoundWave /Game/SFX/coin.coin.
+[2021.01.30-15.17.58:287][491]LogMaterial: Display: Missing cached shader map for material M_Wood_Dark_Parent, compiling. 
+[2021.01.30-15.17.58:637][491]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2021.01.30-15.17.58:637][491]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2021.01.30-15.17.58:637][491]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.01.30-15.17.58:637][491]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.01.30-15.17.58:637][491]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.30-15.17.58:637][491]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.30-15.17.58:637][491]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.30-15.17.58:637][491]LogMaterial: Display: Missing cached shader map for material M_Tree, compiling. 
+[2021.01.30-15.18.00:310][491]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2021.01.30-15.18.00:455][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.00:474][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.00:474][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.00:474][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.00:474][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.00:602][491]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado
+[2021.01.30-15.18.00:618][491]Cmd: MAP LOAD FILE="C:/Users/Carlos/Documents/GitHub/IV/IV/Content/Platformer/Maps/MapadeMarianoFinalSabado.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-15.18.00:618][491]LightingResults: New page: Lighting Build
+[2021.01.30-15.18.00:618][491]LoadErrors: New page: Loading map: MapadeMarianoFinalSabado.umap
+[2021.01.30-15.18.00:677][491]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.18.00:743][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.18.00:753][491]MapCheck: New page: Map Check
+[2021.01.30-15.18.00:753][491]LightingResults: New page: Lighting Build
+[2021.01.30-15.18.00:792][491]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-15.18.01:051][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.30-15.18.01:064][491]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapadeMarianoFinalSabado'.
+[2021.01.30-15.18.01:149][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.01:151][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.01:152][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.01:153][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.01:153][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.18.01:367][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-15.18.01:368][491]LogAIModule: Creating AISystem for world MapadeMarianoFinalSabado
+[2021.01.30-15.18.01:435][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.30-15.18.01:451][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-15.18.01:451][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,388ms to complete.
+[2021.01.30-15.18.01:451][491]LogFileHelpers: Loading map 'MapadeMarianoFinalSabado' took 0.834
+[2021.01.30-15.18.04:192][562]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-15.18.04:315][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-15.18.04:315][562]BlueprintLog: Warning: Blueprint failed to compile:  CheckPoint
+[2021.01.30-15.18.04:315][562]BlueprintLog: Warning: Blueprint failed to compile:  Pl_Coin_01
+[2021.01.30-15.18.04:342][562]LogCustomDialog: Dialog displayed:
+[2021.01.30-15.18.05:620][562]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 60
+[2021.01.30-15.18.06:873][562]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.01.30-15.18.07:072][564]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 52
+[2021.01.30-15.18.07:240][567]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2021.01.30-15.18.08:018][583]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2021.01.30-15.18.08:504][596]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.01.30-15.18.08:832][603]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/CheckPoint.CheckPoint
+[2021.01.30-15.18.09:424][603]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.01.30-15.18.09:424][603]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.01.30-15.18.09:543][603]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.01.30-15.18.10:823][603]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 126 classes and 0 folders.
+[2021.01.30-15.18.13:365][603]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.30-15.18.13:366][603]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.30-15.18.13:366][603]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.30-15.18.13:366][603]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.30-15.18.13:366][603]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.30-15.18.13:366][603]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.30-15.18.13:788][603]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.30-15.18.13:788][603]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.30-15.18.13:788][603]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.30-15.18.14:116][603]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.30-15.18.14:116][603]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.30-15.18.14:116][603]LogSlate: Took 0.014331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.30-15.18.14:450][604]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.01.30-15.18.14:502][604]LogSlate: Took 0.022974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.30-15.18.34:425][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.30-15.19.11:754][939]LogSlate: Window 'Message Log' being destroyed
+[2021.01.30-15.19.11:758][939]LogSlate: Window 'Message Log' being destroyed
+[2021.01.30-15.19.16:284][130]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-15.19.16:288][130]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-15.19.16:453][130]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.19.16:453][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.19.16:652][130]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.30-15.19.16:652][130]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.19.16:652][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.19.17:572][162]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-15.19.17:585][162]BlueprintLog: Warning: Blueprint failed to compile:  Pl_Coin_01
+[2021.01.30-15.19.17:585][162]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.30-15.19.17:586][162]LogPlayLevel: [PlayLevel] Compiling CheckPoint before play...
+[2021.01.30-15.19.17:623][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:624][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:625][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:625][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:626][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:626][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:626][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:627][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:627][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:628][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:628][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:628][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:629][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:629][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:629][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.17:720][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.30-15.19.17:727][162]LogPlayLevel: PlayLevel: Blueprint regeneration took 141 ms (1 blueprints)
+[2021.01.30-15.19.17:727][162]LogCustomDialog: Dialog displayed:
+[2021.01.30-15.19.19:402][162]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.01.30-15.19.19:537][162]PIE: New page: PIE session: MapadeMarianoFinalSabado (30 ene. 2021 17:19:19)
+[2021.01.30-15.19.19:644][162]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.30-15.19.19:653][162]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.30-15.19.19:669][162]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado
+[2021.01.30-15.19.19:796][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126913s)
+[2021.01.30-15.19.19:804][162]LogAIModule: Creating AISystem for world MapadeMarianoFinalSabado
+[2021.01.30-15.19.19:823][162]LogPlayLevel: PIE: World Init took: (0.026588s)
+[2021.01.30-15.19.19:824][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado to /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado (0.155524s)
+[2021.01.30-15.19.19:844][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.30-15.19.19:847][162]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.30-15.19.19:847][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-15.19.19:847][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-15.19.19:847][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-15.19.19:847][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-15.19.19:847][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-15.19.19:847][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-15.19.19:847][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-15.19.19:847][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-15.19.19:848][162]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-15.19.19:848][162]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-15.19.19:865][162]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-15.19.19:865][162]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-15.19.19:892][162]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.30-15.19.19:892][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-15.19.19:892][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-15.19.19:892][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-15.19.19:892][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-15.19.19:892][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-15.19.19:892][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-15.19.19:906][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-15.19.19:906][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-15.19.19:906][162]LogInit: FAudioDevice initialized.
+[2021.01.30-15.19.19:906][162]LogAudio: Display: Audio Device (ID: 2) registered with world 'MapadeMarianoFinalSabado'.
+[2021.01.30-15.19.19:954][162]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-15.19.20:114][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.20:114][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.20:115][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.20:115][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.20:115][162]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-15.19.20:116][162]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado up for play (max tick rate 60) at 2021.01.30-16.19.20
+[2021.01.30-15.19.20:188][162]LogWorld: Bringing up level for play took: 0.126137
+[2021.01.30-15.19.20:190][162]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.01.30-15.19.20:352][162]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2021.01.30-15.19.20:420][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-15.19.20:447][162]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.30-15.19.20:447][162]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.30-15.19.20:447][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.30-15.19.20:462][162]PIE: Server logged in
+[2021.01.30-15.19.20:472][162]PIE: Play in editor total start time 2,888 seconds.
+[2021.01.30-15.19.20:940][163]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.052781 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2021.01.30-15.19.22:897][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-15.19.22:898][236]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado
+[2021.01.30-15.19.22:901][236]LogWorld: UWorld::CleanupWorld for MapadeMarianoFinalSabado, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.19.22:914][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.19.22:947][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-15.19.22:962][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.19.23:002][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-15.19.23:044][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-15.19.23:046][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-15.19.23:102][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-15.19.23:178][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.01.30-15.19.23:260][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_button)
+[2021.01.30-15.19.23:574][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_button)
+[2021.01.30-15.19.23:574][237]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.30-15.19.24:125][240]Cmd: SELECT NONE
+[2021.01.30-15.19.24:440][241]Cmd: SELECT NONE
+[2021.01.30-15.19.24:490][242]Cmd: SELECT NONE
