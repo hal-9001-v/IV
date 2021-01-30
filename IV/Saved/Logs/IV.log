@@ -571,3 +571,208 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-04.08.44:823][  0]SourceControl: Source control is disabled
 [2021.01.30-04.08.44:825][  0]SourceControl: Source control is disabled
 [2021.01.30-04.08.44:828][  0]SourceControl: Source control is disabled
+[2021.01.30-04.08.44:837][  0]SourceControl: Source control is disabled
+[2021.01.30-04.08.44:842][  0]LogUProjectInfo: Found projects:
+[2021.01.30-04.08.45:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.30-04.08.45:063][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.30-04.08.45:063][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.30-04.08.45:109][  0]LogCollectionManager: Loaded 0 collections in 0.000499 seconds
+[2021.01.30-04.08.45:152][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/Collections/' took 0.00s
+[2021.01.30-04.08.45:152][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Developers/Usuario/Collections/' took 0.00s
+[2021.01.30-04.08.45:152][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Collections/' took 0.00s
+[2021.01.30-04.08.45:152][  0]LogEngine: Initializing Engine...
+[2021.01.30-04.08.45:153][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.30-04.08.45:153][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.30-04.08.45:254][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.30-04.08.45:260][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.30-04.08.45:271][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.30-04.08.45:274][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.30-04.08.45:274][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.30-04.08.45:274][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-04.08.45:274][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-04.08.45:275][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-04.08.45:275][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-04.08.45:275][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-04.08.45:275][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-04.08.45:275][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-04.08.45:275][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-04.08.45:275][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-04.08.45:275][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-04.08.45:285][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-04.08.45:285][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-04.08.45:307][  0]LogAudioMixer: Display: Using Audio Device Auriculares (TaoTronics TT-BH085 Stereo)
+[2021.01.30-04.08.45:314][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-04.08.45:316][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-04.08.45:316][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-04.08.45:316][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-04.08.45:316][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-04.08.45:316][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-04.08.45:317][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-04.08.45:317][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-04.08.45:317][  0]LogInit: FAudioDevice initialized.
+[2021.01.30-04.08.45:317][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.30-04.08.45:317][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.30-04.08.45:357][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.30-04.08.45:362][  0]LogInit: Texture streaming: Enabled
+[2021.01.30-04.08.45:371][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.30-04.08.45:374][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.30-04.08.45:374][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.30-04.08.45:396][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.30-04.08.45:440][  0]LogInit: Transaction tracking system initialized
+[2021.01.30-04.08.45:457][  0]BlueprintLog: New page: Editor Load
+[2021.01.30-04.08.45:515][  0]LocalizationService: Localization service is disabled
+[2021.01.30-04.08.45:542][  0]TimingProfiler: Initialize
+[2021.01.30-04.08.45:542][  0]TimingProfiler: OnSessionChanged
+[2021.01.30-04.08.45:542][  0]LoadingProfiler: Initialize
+[2021.01.30-04.08.45:542][  0]LoadingProfiler: OnSessionChanged
+[2021.01.30-04.08.45:542][  0]NetworkingProfiler: Initialize
+[2021.01.30-04.08.45:542][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.30-04.08.45:542][  0]MemoryProfiler: Initialize
+[2021.01.30-04.08.45:542][  0]MemoryProfiler: OnSessionChanged
+[2021.01.30-04.08.45:668][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.30-04.08.45:668][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.30-04.08.45:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/' took 0.01s
+[2021.01.30-04.08.45:803][  0]SourceControl: Source control is disabled
+[2021.01.30-04.08.45:803][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.932
+[2021.01.30-04.08.45:803][  0]Cmd: MAP LOAD FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-04.08.45:804][  0]LightingResults: New page: Lighting Build
+[2021.01.30-04.08.45:804][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-04.08.45:804][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-04.08.45:804][  0]MapCheck: New page: Map Check
+[2021.01.30-04.08.45:804][  0]LightingResults: New page: Lighting Build
+[2021.01.30-04.08.45:815][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.30-04.08.46:262][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-04.08.46:263][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-04.08.46:272][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-04.08.46:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.30-04.08.46:281][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-04.08.46:281][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2021.01.30-04.08.46:281][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.478
+[2021.01.30-04.08.46:282][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.412
+[2021.01.30-04.08.46:456][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-04.08.46:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-04.08.46:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-04.08.46:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-04.08.46:500][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0075 seconds. Added 3580 classes and 841 folders.
+[2021.01.30-04.08.46:518][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.30-04.08.46:544][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.30-04.08.46:544][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:544][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.30-04.08.46:544][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.01.30-04.08.46:545][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.30-04.08.46:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.30-04.08.46:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.01.30-04.08.46:546][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.30-04.08.46:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.30-04.08.46:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.30-04.08.46:548][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.30-04.08.46:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.30-04.08.46:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.01.30-04.08.46:549][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.30-04.08.46:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.30-04.08.46:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.01.30-04.08.46:550][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.30-04.08.46:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.30-04.08.46:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.01.30-04.08.46:551][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.30-04.08.46:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.30-04.08.46:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.01.30-04.08.46:552][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.30-04.08.46:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.30-04.08.46:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.01.30-04.08.46:553][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.30-04.08.46:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.30-04.08.46:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.01.30-04.08.46:554][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.30-04.08.46:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.30-04.08.46:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.01.30-04.08.46:555][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.30-04.08.46:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.30-04.08.46:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.01.30-04.08.46:556][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.30-04.08.46:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.30-04.08.46:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.30-04.08.46:557][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.30-04.08.46:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.30-04.08.46:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.01.30-04.08.46:559][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.30-04.08.46:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.30-04.08.46:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.01.30-04.08.46:561][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.30-04.08.46:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.30-04.08.46:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.01.30-04.08.46:570][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.30-04.08.46:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.30-04.08.46:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.01.30-04.08.46:579][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.30-04.08.46:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.30-04.08.46:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.01.30-04.08.46:580][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.30-04.08.46:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.30-04.08.46:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.01.30-04.08.46:581][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.30-04.08.46:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.30-04.08.46:582][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.01.30-04.08.46:582][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.30-04.08.46:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.30-04.08.46:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.01.30-04.08.46:584][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.30-04.08.46:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.30-04.08.46:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.01.30-04.08.46:585][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.30-04.08.46:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.30-04.08.46:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.01.30-04.08.46:586][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.30-04.08.46:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.30-04.08.46:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.01.30-04.08.46:587][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.30-04.08.46:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.30-04.08.46:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.01.30-04.08.46:588][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.30-04.08.46:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.30-04.08.46:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.01.30-04.08.46:590][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.30-04.08.46:590][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.30-04.08.46:590][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.30-04.08.46:590][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.01.30-04.08.46:887][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.30-04.08.46:888][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.01.30-04.08.46:974][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.30-04.08.46:976][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.30-04.08.47:002][  0]LogSlate: Took 0.022710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.30-04.08.47:240][  0]LogRenderer: Reallocating scene render targets to support 488x236 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-04.08.47:368][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.30-04.08.47:368][  0]LogLoad: (Engine Initialization) Total time: 6.50 seconds
+[2021.01.30-04.08.47:368][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.30-04.08.47:368][  0]LogInit: First time updating LLM stats...
+[2021.01.30-04.08.47:424][  0]LogAssetRegistry: Asset discovery search completed in 3.7524 seconds
+[2021.01.30-04.08.47:425][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.30-04.08.47:454][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.30-04.08.47:519][  5]LogRenderer: Reallocating scene render targets to support 488x256 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-04.08.47:543][  6]LogRenderer: Reallocating scene render targets to support 496x496 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-04.08.52:676][208]LogRenderer: Reallocating scene render targets to support 980x576 Format 10 NumSamples 1 (Frame:208).
+[2021.01.30-04.09.08:889][975]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
