@@ -1302,3 +1302,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-17.25.48:820][752]AssetCheck: New page: Asset Save: test
 [2021.01.30-17.25.48:820][752]LogContentValidation: Display: Validating World /Game/Platformer/Maps/test.test
 [2021.01.30-17.26.05:479][ 37]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Platformer/Maps/test.
+[2021.01.30-17.35.16:970][673]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.30-17.35.17:330][673]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-17.35.17:330][673]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-17.35.17:469][674]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.30-17.35.17:504][674]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-17.35.17:505][674]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.18.35:812][693]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
