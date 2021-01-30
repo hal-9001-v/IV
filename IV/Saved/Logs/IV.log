@@ -1928,3 +1928,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-19.20.35:044][592]LogSavePackage: Moving '../../../../Proyectos Unreal/IV/IV/Saved/IADEMIERDA9CE66BE548F31C90AAA5BC981C543606.tmp' to '../../../../Proyectos Unreal/IV/IV/Content/Maps/IADEMIERDA.umap'
 [2021.01.30-19.20.35:083][592]AssetCheck: New page: Asset Save: IADEMIERDA
 [2021.01.30-19.20.35:083][592]LogContentValidation: Display: Validating World /Game/Maps/IADEMIERDA.IADEMIERDA
+[2021.01.30-20.42.32:850][696]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.30-20.42.33:784][696]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-20.42.33:784][696]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-20.42.34:353][697]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.30-20.42.34:655][697]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-20.42.34:655][697]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-21.19.55:168][702]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.01.30-21.19.56:678][702]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.01.30-21.19.57:280][702]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.30-21.19.57:602][702]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-21.19.57:603][702]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-21.20.01:746][703]FUdpSocketBuilder: Failed to bind UdpMessageMulticastSocket to 0.0.0.0:6666
+[2021.01.30-21.20.01:746][703]FUdpSocketBuilder: Failed to configure multicast for UdpMessageMulticastSocket (loopback: 1, ttl: 1)
+[2021.01.30-21.20.01:748][703]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.01.30-21.20.01:748][703]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.01.30-21.20.01:763][703]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.30-21.20.02:086][703]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-21.20.02:086][703]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-21.20.02:913][704]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.30-21.20.03:261][704]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-21.20.03:261][704]LogAudioMixer: Display: 1: FrontRight
