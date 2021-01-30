@@ -1949,3 +1949,156 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-21.20.02:913][704]LogAudioMixer: Resetting audio stream to device id 
 [2021.01.30-21.20.03:261][704]LogAudioMixer: Display: 0: FrontLeft
 [2021.01.30-21.20.03:261][704]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B57CB9871-45B5-159B-DA97-2C8BEB08E369%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=888c630a4cd62548350a77ad46dcb6c5%7C7b991f9d5719470ea99c0b3b69fcf409%7C151a40ea-1412-47cc-a832-24a2fe593994&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1cebbe77eb0 [can pipeline])
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.204.137.157) port 443 (#0))
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.01.30-21.20.18:675][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.01.30-21.20.18:680][750]LogHttp: Warning: 000001CF74EF0100: libcurl info message cache 7 (Closing connection 0)
+[2021.01.30-21.20.18:692][750]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B57CB9871-45B5-159B-DA97-2C8BEB08E369%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=888c630a4cd62548350a77ad46dcb6c5%7C7b991f9d5719470ea99c0b3b69fcf409%7C151a40ea-1412-47cc-a832-24a2fe593994&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.30-21.21.48:839][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.01.30-21.21.51:976][ 15]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-21.21.52:696][ 15]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.21.52:696][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-21.21.55:216][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.30-21.21.55:216][ 15]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.21.55:217][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-21.21.56:344][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.30-21.21.56:344][ 15]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.21.56:344][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-21.21.57:561][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.30-21.21.57:561][ 15]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.21.57:561][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-21.21.58:390][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.30-21.21.58:399][ 15]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.21.58:399][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-21.22.00:793][ 15]LogSlate: Window 'EnemyFlasher' being destroyed
+[2021.01.30-21.22.01:188][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.30-21.22.01:188][ 15]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.01:188][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-21.22.01:727][ 15]LogSlate: Window 'IV - Unreal Editor' being destroyed
+[2021.01.30-21.22.01:781][ 15]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.30-21.22.04:763][ 16]Cmd: QUIT_EDITOR
+[2021.01.30-21.22.04:832][ 16]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.30-21.22.05:215][ 16]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.30-21.22.06:515][ 16]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.01.30-21.22.06:515][ 16]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.01.30-21.22.06:515][ 16]LogAudio: Display: Audio Device unregistered from world 'IADEMIERDA'.
+[2021.01.30-21.22.06:515][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-21.22.06:549][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-21.22.07:084][ 16]LogAudio: Display: Audio Device Manager Shutdown
+[2021.01.30-21.22.07:561][ 16]LogExit: Preparing to exit.
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC222100] Windows
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC222200] Default__DeviceProfile
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163700] WindowsNoEditor
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC220800] WindowsServer
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC160D00] WindowsClient
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC223100] IOS
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC160C00] iPadAir
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC222600] iPadAir2
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC117400] IPadPro
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC117500] iPadAir3
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC223200] iPadAir4
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC115000] iPadMini2
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC223E00] iPadMini3
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC115600] iPadMini4
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC222D00] iPadMini5
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142D00] iPhone6
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142E00] iPodTouch6
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC117F00] iPhone7
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC117300] iPodTouch7
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142600] iPhone5S
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC116900] iPhone6Plus
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140F00] iPhone6S
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC115700] iPhone6SPlus
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141700] iPhone7Plus
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC117C00] iPhoneSE
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143E00] iPhone8
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC116E00] iPhone8Plus
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142200] iPhoneX
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC115A00] iPhoneXS
+[2021.01.30-21.22.08:775][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140500] iPhoneXSMax
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC114A00] iPhoneXR
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143300] iPhone11
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC116F00] iPhone11Pro
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142C00] iPhone11ProMax
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC116100] iPhoneSE2
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142500] iPhone12Mini
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC116300] iPhone12
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143F00] iPhone12Pro
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC116800] iPhone12ProMax
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140100] iPadPro105
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC115C00] iPadPro129
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141000] iPadPro97
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC114300] iPadPro2_129
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140800] iPad5
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161400] iPad6
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC114700] iPad7
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161A00] iPad8
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC116700] iPadPro11
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163900] iPadPro2_11
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC114C00] iPadPro3_129
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161600] iPadPro4_129
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC117200] AppleTV
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC160900] AppleTV4K
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141B00] TVOS
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163E00] Mac
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143500] MacClient
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161B00] MacNoEditor
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141600] MacServer
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC160500] Linux
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143000] LinuxNoEditor
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163B00] LinuxAArch64NoEditor
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142B00] LinuxClient
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163300] LinuxAArch64Client
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142900] LinuxServer
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163A00] LinuxAArch64Server
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143700] Android
+[2021.01.30-21.22.08:776][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163D00] Android_Low
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142300] Android_Mid
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC160A00] Android_High
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143900] Android_Default
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC163100] Android_Adreno4xx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140300] Android_Adreno5xx_Low
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC160600] Android_Adreno5xx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141200] Android_Adreno6xx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC162000] Android_Adreno6xx_Vulkan
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140A00] Android_Mali_T6xx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC162E00] Android_Mali_T7xx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141800] Android_Mali_T8xx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC160200] Android_Mali_G71
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142000] Android_Mali_G72
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161D00] Android_Mali_G72_Vulkan
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142800] Android_Mali_G76
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC162400] Android_Mali_G76_Vulkan
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC143800] Android_Mali_G77
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC162500] Android_Mali_G77_Vulkan
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140B00] Android_Vulkan_SM5
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161500] Android_PowerVR_G6xxx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140400] Android_PowerVR_GT7xxx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161700] Android_PowerVR_GE8xxx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141F00] Android_PowerVR_GM9xxx
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC161100] Android_PowerVR_GM9xxx_Vulkan
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC141300] Android_TegraK1
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC162800] Android_Unknown_Vulkan
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC142A00] Lumin
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC162C00] Lumin_Desktop
+[2021.01.30-21.22.08:777][ 16]LogDeviceProfile: Device profile begin destroy: [000001CEDC140900] HoloLens
+[2021.01.30-21.22.16:785][ 16]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:837][ 16]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:843][ 16]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:848][ 16]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:853][ 16]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:859][ 16]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:864][ 16]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:889][ 16]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:895][ 16]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.16:900][ 16]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.23:090][ 16]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.30-21.22.25:724][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-21.22.25:766][ 16]LogExit: Editor shut down
+[2021.01.30-21.22.25:967][ 16]LogExit: Transaction tracking system shut down
