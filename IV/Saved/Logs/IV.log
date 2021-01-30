@@ -1113,3 +1113,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-04.40.35:306][356]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado1.MapadeMarianoFinalSabado1:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
 [2021.01.30-04.40.35:307][356]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado1.MapadeMarianoFinalSabado1:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
 [2021.01.30-04.40.35:307][356]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado1.MapadeMarianoFinalSabado1:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-04.46.14:279][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.01.30-04.46.14:281][584]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/MapadeMarianoFinalSabado' took 0.044
+[2021.01.30-04.49.59:608][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.30-04.50.01:962][255]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-04.50.03:569][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.30-04.50.04:858][325]LogSavePackage: Moving 'C:/Users/Carlos/Documents/GitHub/IV/IV/Saved/MapadeMarianoFinalSabado4B29C3574EF39B613E2223A49FE26A3E.tmp' to 'C:/Users/Carlos/Documents/GitHub/IV/IV/Content/Platformer/Maps/MapadeMarianoFinalSabado.umap'
+[2021.01.30-04.50.04:913][325]AssetCheck: New page: Asset Save: MapadeMarianoFinalSabado
+[2021.01.30-04.50.04:913][325]LogContentValidation: Display: Validating World /Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado
