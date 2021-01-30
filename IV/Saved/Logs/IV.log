@@ -8909,3 +8909,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-19.32.52:682][929]LogContentValidation: Display: Validating FontFace /Game/Fonts/JandaManateeSolid.JandaManateeSolid
 [2021.01.30-19.32.52:682][929]LogContentValidation: Display: Validating Texture2D /Game/Sprites/aswdasd2.aswdasd2
 [2021.01.30-19.32.52:682][929]LogContentValidation: Display: Validating SoundWave /Game/SFX/pop.pop
+[2021.01.30-19.32.59:387][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform)
+[2021.01.30-19.33.27:579][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.01.30-19.33.27:614][ 21]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Documents\GitHub\IV\IV\Content\FirstPersonBP\Blueprints\MainMenu.uasset: Failed to load '/Game/Sprites/EmptyButton': Can't find file.
+[2021.01.30-19.33.27:614][ 21]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Documents\GitHub\IV\IV\Content\FirstPersonBP\Blueprints\MainMenu.uasset: Failed to load '/Game/Sprites/EmptyButton': Can't find file.
+[2021.01.30-19.33.27:618][ 21]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Documents\GitHub\IV\IV\Content\FirstPersonBP\Blueprints\DeathScreen.uasset: Failed to load '/Game/Sprites/EmptyButton': Can't find file.
+[2021.01.30-19.33.27:619][ 21]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Documents\GitHub\IV\IV\Content\FirstPersonBP\Blueprints\DeathScreen.uasset: Failed to load '/Game/Sprites/EmptyButton': Can't find file.
+[2021.01.30-19.33.27:733][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:733][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:733][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:733][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:733][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:774][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:774][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:774][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:774][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:774][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:775][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:775][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:775][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:776][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:778][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:778][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:778][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:778][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:779][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:779][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:782][ 21]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado
+[2021.01.30-19.33.27:795][ 21]Cmd: MAP LOAD FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/MapadeMarianoFinalSabado.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-19.33.27:795][ 21]LightingResults: New page: Lighting Build
+[2021.01.30-19.33.27:796][ 21]LoadErrors: New page: Loading map: MapadeMarianoFinalSabado.umap
+[2021.01.30-19.33.27:818][ 21]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.33.27:818][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.33.27:818][ 21]MapCheck: New page: Map Check
+[2021.01.30-19.33.27:818][ 21]LightingResults: New page: Lighting Build
+[2021.01.30-19.33.27:877][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.33.27:907][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.01.30-19.33.27:923][ 21]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapadeMarianoFinalSabado'.
+[2021.01.30-19.33.27:970][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:971][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:971][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:971][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.27:972][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:043][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:044][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:044][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:044][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:045][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:045][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:045][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:046][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:046][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:049][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:050][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:050][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:050][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:051][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:051][ 21]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:258][ 21]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-19.33.28:258][ 21]LogAIModule: Creating AISystem for world MapadeMarianoFinalSabado
+[2021.01.30-19.33.28:319][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.01.30-19.33.28:333][ 21]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-19.33.28:333][ 21]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.32ms to complete.
+[2021.01.30-19.33.28:333][ 21]LogFileHelpers: Loading map 'MapadeMarianoFinalSabado' took 0.550
+[2021.01.30-19.33.28:697][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-19.33.28:707][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-19.33.28:707][ 45]PIE: New page: PIE session: MapadeMarianoFinalSabado (30 Jan 2021, 21:33:28)
+[2021.01.30-19.33.28:746][ 45]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado
+[2021.01.30-19.33.28:828][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082317s)
+[2021.01.30-19.33.28:829][ 45]LogAIModule: Creating AISystem for world MapadeMarianoFinalSabado
+[2021.01.30-19.33.28:829][ 45]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2021.01.30-19.33.28:830][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado to /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado (0.083804s)
+[2021.01.30-19.33.28:877][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.01.30-19.33.28:880][ 45]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-19.33.28:880][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-19.33.28:880][ 45]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-19.33.28:880][ 45]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-19.33.28:883][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-19.33.28:883][ 45]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-19.33.28:890][ 45]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.30-19.33.28:890][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-19.33.28:890][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-19.33.28:890][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-19.33.28:891][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-19.33.28:891][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-19.33.28:891][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-19.33.28:904][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-19.33.28:904][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-19.33.28:904][ 45]LogInit: FAudioDevice initialized.
+[2021.01.30-19.33.28:904][ 45]LogAudio: Display: Audio Device (ID: 93) registered with world 'MapadeMarianoFinalSabado'.
+[2021.01.30-19.33.28:910][ 45]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.33.28:956][ 45]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:956][ 45]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint_5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:957][ 45]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint3_8.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:957][ 45]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint4_2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:958][ 45]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado:PersistentLevel.CheckPoint5.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.33.28:959][ 45]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado.MapadeMarianoFinalSabado up for play (max tick rate 0) at 2021.01.30-20.33.28
+[2021.01.30-19.33.28:960][ 45]LogWorld: Bringing up level for play took: 0.049249
+[2021.01.30-19.33.28:960][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2021.01.30-19.33.28:969][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.33.28:969][ 45]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.30-19.33.28:969][ 45]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.30-19.33.28:969][ 45]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.30-19.33.28:969][ 45]PIE: Server logged in
+[2021.01.30-19.33.28:970][ 45]PIE: Play in editor total start time 0.263 seconds.
+[2021.01.30-19.33.29:747][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.33.29:748][ 90]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.30-19.33.29:748][ 90]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.30-19.33.30:312][128]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9.189 Y=-1735.609 Z=849.926] for [FirstPersonProjectile_C]
+[2021.01.30-19.33.33:447][340]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.723 Y=515.668 Z=662.290] for [FirstPersonProjectile_C]
+[2021.01.30-19.33.41:622][890]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5356.139 Y=4362.006 Z=1002.016] for [FirstPersonProjectile_C]
+[2021.01.30-19.34.13:532][ 62]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4240.443 Y=23571.365 Z=2931.223] for [FirstPersonProjectile_C]
+[2021.01.30-19.34.18:710][418]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11718.400 Y=22757.686 Z=2341.802] for [FirstPersonProjectile_C]
+[2021.01.30-19.34.25:777][893]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6089.885 Y=8575.343 Z=954.440] for [FirstPersonProjectile_C]
+[2021.01.30-19.34.31:475][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.34.31:475][272]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoFinalSabado
+[2021.01.30-19.34.31:477][272]LogWorld: UWorld::CleanupWorld for MapadeMarianoFinalSabado, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.34.31:484][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.34.31:498][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-19.34.31:507][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.34.31:555][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.34.31:556][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.34.31:557][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.34.31:572][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.34.31:590][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.01.30-19.34.31:627][273]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2021.01.30-19.34.32:154][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.01.30-19.34.33:522][315]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/MapadeMarianoFinalSabado61570E7A46ABD0051A7AAB827B2D7105.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/MapadeMarianoFinalSabado.umap'
+[2021.01.30-19.34.33:562][315]AssetCheck: New page: Asset Save: MapadeMarianoFinalSabado
+[2021.01.30-19.34.33:562][315]LogContentValidation: Display: Validating World /Game/Platformer/Maps/MapadeMarianoFinalSabado.MapadeMarianoFinalSabado
+[2021.01.30-19.34.34:393][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.01.30-19.34.34:539][391]LogActorComponent: RegisterComponentWithWorld: (/Game/Platformer/Maps/OverView.OverView:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.01.30-19.34.34:559][391]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/OverView.OverView
+[2021.01.30-19.34.34:560][391]Cmd: MAP LOAD FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/OverView.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-19.34.34:560][391]LightingResults: New page: Lighting Build
+[2021.01.30-19.34.34:560][391]LoadErrors: New page: Loading map: OverView.umap
+[2021.01.30-19.34.34:596][391]LogWorld: UWorld::CleanupWorld for MapadeMarianoFinalSabado, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.34.34:597][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.34.34:598][391]MapCheck: New page: Map Check
+[2021.01.30-19.34.34:598][391]LightingResults: New page: Lighting Build
+[2021.01.30-19.34.34:655][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.34.34:676][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.01.30-19.34.34:688][391]LogAudio: Display: Audio Device (ID: 1) registered with world 'OverView'.
+[2021.01.30-19.34.34:775][391]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-19.34.34:775][391]LogAIModule: Creating AISystem for world OverView
+[2021.01.30-19.34.34:824][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.01.30-19.34.34:837][391]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-19.34.34:837][391]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2021.01.30-19.34.34:837][391]LogFileHelpers: Loading map 'OverView' took 0.277
