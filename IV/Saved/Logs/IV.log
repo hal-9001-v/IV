@@ -9073,3 +9073,168 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-19.35.02:418][584]AssetCheck: New page: Asset Save: EmptyButton
 [2021.01.30-19.35.02:419][584]LogContentValidation: Display: Validating Texture2D /Game/Sprites/EmptyButton.EmptyButton
 [2021.01.30-19.35.05:455][593]AssetReimport: Reimported asset EmptyButton from C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Sprites/EmptyButton.png.
+[2021.01.30-19.35.23:578][648]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-19.35.23:588][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-19.35.23:588][648]PIE: New page: PIE session: OverView (30 Jan 2021, 21:35:23)
+[2021.01.30-19.35.23:588][648]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_OverView
+[2021.01.30-19.35.23:596][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007452s)
+[2021.01.30-19.35.23:596][648]LogAIModule: Creating AISystem for world OverView
+[2021.01.30-19.35.23:597][648]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2021.01.30-19.35.23:597][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/OverView.OverView to /Game/Platformer/Maps/UEDPIE_0_OverView.OverView (0.008363s)
+[2021.01.30-19.35.23:647][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.01.30-19.35.23:649][648]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2021.01.30-19.35.23:649][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-19.35.23:649][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-19.35.23:649][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-19.35.23:649][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-19.35.23:649][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-19.35.23:649][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-19.35.23:649][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-19.35.23:649][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-19.35.23:649][648]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-19.35.23:650][648]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-19.35.23:652][648]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-19.35.23:652][648]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-19.35.23:659][648]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.30-19.35.23:659][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-19.35.23:660][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-19.35.23:660][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-19.35.23:660][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-19.35.23:660][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-19.35.23:660][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-19.35.23:672][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-19.35.23:673][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-19.35.23:673][648]LogInit: FAudioDevice initialized.
+[2021.01.30-19.35.23:673][648]LogAudio: Display: Audio Device (ID: 94) registered with world 'OverView'.
+[2021.01.30-19.35.23:680][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.35.23:684][648]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_OverView.OverView up for play (max tick rate 0) at 2021.01.30-20.35.23
+[2021.01.30-19.35.23:684][648]LogWorld: Bringing up level for play took: 0.003586
+[2021.01.30-19.35.23:684][648]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2021.01.30-19.35.23:687][648]PIE: Server logged in
+[2021.01.30-19.35.23:688][648]PIE: Play in editor total start time 0.1 seconds.
+[2021.01.30-19.35.24:926][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.35.24:926][780]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_OverView
+[2021.01.30-19.35.24:926][780]LogWorld: UWorld::CleanupWorld for OverView, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.35.24:927][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.35.24:937][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-19.35.24:944][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.35.24:986][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.35.24:986][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.35.24:987][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.35.25:002][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.35.25:007][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.01.30-19.35.25:029][781]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2021.01.30-19.35.26:941][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.30-19.35.27:069][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:069][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:069][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:099][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:099][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:099][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:099][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:100][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:100][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:100][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:100][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:101][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:112][972]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/test.test
+[2021.01.30-19.35.27:112][972]Cmd: MAP LOAD FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-19.35.27:112][972]LightingResults: New page: Lighting Build
+[2021.01.30-19.35.27:112][972]LoadErrors: New page: Loading map: test.umap
+[2021.01.30-19.35.27:113][972]LogWorld: UWorld::CleanupWorld for OverView, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.35.27:113][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.35.27:113][972]MapCheck: New page: Map Check
+[2021.01.30-19.35.27:113][972]LightingResults: New page: Lighting Build
+[2021.01.30-19.35.27:165][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.35.27:171][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.01.30-19.35.27:172][972]LogAudio: Display: Audio Device (ID: 1) registered with world 'test'.
+[2021.01.30-19.35.27:202][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:202][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:203][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:247][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:247][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:247][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:248][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:248][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:248][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:249][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:249][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:249][972]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.27:432][972]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-19.35.27:432][972]LogAIModule: Creating AISystem for world test
+[2021.01.30-19.35.27:488][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.01.30-19.35.27:501][972]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-19.35.27:502][972]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2021.01.30-19.35.27:502][972]LogFileHelpers: Loading map 'test' took 0.390
+[2021.01.30-19.35.28:148][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-19.35.28:159][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-19.35.28:159][ 13]PIE: New page: PIE session: test (30 Jan 2021, 21:35:28)
+[2021.01.30-19.35.28:159][ 13]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.30-19.35.28:235][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077144s)
+[2021.01.30-19.35.28:236][ 13]LogAIModule: Creating AISystem for world test
+[2021.01.30-19.35.28:236][ 13]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.01.30-19.35.28:236][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/test.test to /Game/Platformer/Maps/UEDPIE_0_test.test (0.078374s)
+[2021.01.30-19.35.28:283][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.01.30-19.35.28:284][ 13]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-19.35.28:284][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-19.35.28:284][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-19.35.28:284][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-19.35.28:287][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-19.35.28:287][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-19.35.28:293][ 13]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.30-19.35.28:293][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-19.35.28:293][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-19.35.28:293][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-19.35.28:294][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-19.35.28:294][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-19.35.28:294][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-19.35.28:306][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-19.35.28:306][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-19.35.28:306][ 13]LogInit: FAudioDevice initialized.
+[2021.01.30-19.35.28:307][ 13]LogAudio: Display: Audio Device (ID: 95) registered with world 'test'.
+[2021.01.30-19.35.28:314][ 13]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.35.28:343][ 13]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint_3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.28:343][ 13]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint3.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.28:343][ 13]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Platformer/Maps/UEDPIE_0_test.test:PersistentLevel.CheckPoint2.r'.  Not spawning Actor of class 'CheckPoint_C' to break.
+[2021.01.30-19.35.28:346][ 13]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2021.01.30-20.35.28
+[2021.01.30-19.35.28:347][ 13]LogWorld: Bringing up level for play took: 0.031710
+[2021.01.30-19.35.28:347][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_131
+[2021.01.30-19.35.28:352][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.35.28:353][ 13]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.30-19.35.28:353][ 13]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.30-19.35.28:353][ 13]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.30-19.35.28:354][ 13]PIE: Server logged in
+[2021.01.30-19.35.28:354][ 13]PIE: Play in editor total start time 0.196 seconds.
+[2021.01.30-19.35.28:942][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.35.28:942][ 46]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.30-19.35.28:942][ 46]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.30-19.35.29:398][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12.252 Y=-1756.860 Z=868.252] for [FirstPersonProjectile_C]
+[2021.01.30-19.35.32:117][289]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1421.327 Y=1134.211 Z=1412.662] for [FirstPersonProjectile_C]
+[2021.01.30-19.35.34:781][493]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1080.163 Y=1495.856 Z=1415.575] for [FirstPersonProjectile_C]
+[2021.01.30-19.35.35:695][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.35.35:695][559]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_test
+[2021.01.30-19.35.35:696][559]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.35.35:701][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.35.35:712][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-19.35.35:720][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.35.35:765][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.35.35:765][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.35.35:766][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.35.35:781][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.35.35:797][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.01.30-19.35.35:832][560]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2021.01.30-19.35.36:079][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-19.35.36:126][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.30-19.35.36:449][577]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test103C5684421AF7D97EA8D2A182E4BF7D.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test.umap'
+[2021.01.30-19.35.36:514][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/test_BuiltData" FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset" SILENT=true
+[2021.01.30-19.35.37:554][577]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/IV/IV/Saved/test_BuiltData0E45CC3C4809422AD10796A8420B92B1.tmp' to 'C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/test_BuiltData.uasset'
+[2021.01.30-19.35.37:582][577]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-19.35.37:582][577]LogContentValidation: Display: Validating World /Game/Platformer/Maps/test.test
+[2021.01.30-19.35.37:582][577]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/test_BuiltData.test_BuiltData
