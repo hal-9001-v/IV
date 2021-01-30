@@ -14,12 +14,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C8F7AEDBD93A4DCBC3B6918214E2144E7535D237",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Tree.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "735FB68457850664C4D65EFCE22C15E8791C4B45",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Plants.uasset"
@@ -98,7 +92,6 @@
 		{
 			"ShaderMapHash": "961E8B9F65E9008D0B30029825D459E592D3A1B8",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Wood_Dark_Parent.uasset",
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Crate_Light_Parent.uasset"
 			]
 		},
@@ -118,12 +111,6 @@
 			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
 			"Assets": [
 				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "95A9C889EB13EA19CEECC7FDC65A0CA823E5266C",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
 			]
 		},
 		{
@@ -190,6 +177,12 @@
 			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "95A9C889EB13EA19CEECC7FDC65A0CA823E5266C",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
 			]
 		},
 		{
@@ -690,7 +683,8 @@
 			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset",
-				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/Banana.uasset"
 			]
 		},
 		{
@@ -818,6 +812,260 @@
 			"ShaderMapHash": "1EC0A730EA73D3AF21AB7AEED6CF499E04F9E1E1",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C66310B05BBDC7FD66FB4E7272FC70AC445CA829",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "715821AAEF5CEB2E85B3278909F041368D3C73B1",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A40563B032B68BFE9CB1929C16F7718135E262E4",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_EyeRefractive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9A1D9BEEECB11AF200B9914DD39F45CB0BA2938E",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_EyeRefractive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF145E80574E6F9DE95D2D345C8FF35A7F58DE24",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneHair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0D1147002E215330749F34CF22F1E50362BAA0B1",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneHair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "036EB30D419639331EDCB7B001E68C9E2CCCD1D4",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Hair/Materials/M_HairSheet_Master2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "784E321B8E83B54622A112202B85131167AEB0F4",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Hair/Materials/M_HairSheet_Master2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08372066588CEF505A2E9B65A73DA2C0146C97B6",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneFur.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF8F7B9D7D0E8E4E1990DABC4984851085B2DA99",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneFur.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4296BAFAC7ED36B9E73BF74299E778425C576903",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearLine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9A7839765D428B47F054AFA9AC5CEF7E5A480AC0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearLine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56B3D58D747E2CB10E7D08F5A0CEB3D4DA7D3796",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearDuct_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2AD259C2251B3C5BC6ABB689600BA50A2348942C",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearDuct_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F91152A6102449BFE5C8AAE7F995C7DF66EC447B",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Mouth/Materials/M_Mouth_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6B806A3749F723B33B3D72A976B3A41C0C9F0F86",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Mouth/Materials/M_Mouth_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B9603BE2198D1B0C296F4E75BB1A69D4D68B0ACB",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyelash/M_EyelashMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "221773CE48F7BDF287755BCE6D436F563D76B7E2",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyelash/M_EyelashMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E8E20916E069A404A5EEA8ACE10DD526D653A4E5",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Torso.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4F37C92D8568740B6FD5D9DD9D067E3B509C593B",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Torso.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6F1D517CD87B8AB33586D30BA4792708983666F8",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_shield.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "159860A28EE1446ECE2B9DB59CE353EA5F0CC49C",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_shield.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CABF65B4205551C822F3966DCAFD7436F0D236D2",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_RockHair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ADA474723C39A7E8F660BF2C1E9892D459239CFF",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_legs.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8322BF5ED2E0E163E7D069F9B00BD4D5A84A6C4F",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_legs.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB34B47D8FE708BCB5C1C7A4822F079790060665",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_head.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F2D5D9D81CEF75BFC7B61ABDF6DD49060332B26A",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_head.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20395DACAFFA8D8D1B6F978B12930B26C5FCBD38",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_Arms.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA90084E1AA76D956FF28431288E5383C893B59D",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_Arms.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EE621A7252C875D0A7983B76C3DCC2AD4DECFD7F",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_arms.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "289112D31E0BD704D3AC5D0406EF0D58C32917C8",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_arms.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0A505919E12DD0E7A6F593170CD8BFF56D455E26",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_Eye_Occlusion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20515932ABDA29895177D3D29014B2AC942F0234",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/ParagonGreystone/Characters/Global/Eyes/Materials/M_Eye_Occlusion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "49B7F936DE9101446178B02D4924849B75FE2961",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Tree.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84FBF87C413B2A62F7F07448EFC7BD01B25FCED0",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Wood_Dark_Parent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D346EB7C434EFB53D914936F0FE3327DB5195440",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/ExampleContent/Foliage/MAT_PalmFronds.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9EC36BD6289A823B533985BE361D64F75DFA0E2E",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A0DABA1DF9E8467E31A78BE79F31A0A15BF6D06F",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5A0BC7AD83F40EBDA903D52167D2644A53CEE9FE",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/Material_002.uasset",
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPersonBP/Blueprints/defaultMat.uasset",
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/FirstPerson/FPWeapon/Mesh/defaultMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB4DFF73BEA8F541962BC3DBFCDC9CFE93C14796",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84C24EC841300610DC4045B7048FEBA0CD333E3B",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8DE83ECFC60FCB1D15B5BAFC5DA10DE49F28086E",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uasset"
 			]
 		}
 	]
