@@ -851,3 +851,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-02.36.53:593][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.01.31-02.36.53:605][380]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2021.01.31-02.36.53:605][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.13:925][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.01.31-02.38.14:206][  5]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos
+[2021.01.31-02.38.14:206][  5]Cmd: MAP LOAD FILE="C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Maps/MapadeMarianoSinEnemigos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-02.38.14:206][  5]LightingResults: New page: Lighting Build
+[2021.01.31-02.38.14:206][  5]LoadErrors: New page: Loading map: MapadeMarianoSinEnemigos.umap
+[2021.01.31-02.38.14:216][  5]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.38.14:216][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.14:217][  5]MapCheck: New page: Map Check
+[2021.01.31-02.38.14:217][  5]LightingResults: New page: Lighting Build
+[2021.01.31-02.38.14:239][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-02.38.14:271][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.01.31-02.38.14:273][  5]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapadeMarianoSinEnemigos'.
+[2021.01.31-02.38.14:608][  5]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-02.38.14:608][  5]LogAIModule: Creating AISystem for world MapadeMarianoSinEnemigos
+[2021.01.31-02.38.14:643][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.31-02.38.14:658][  5]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-02.38.14:658][  5]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.315ms to complete.
+[2021.01.31-02.38.14:658][  5]LogFileHelpers: Loading map 'MapadeMarianoSinEnemigos' took 0.453
+[2021.01.31-02.38.15:192][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-02.38.15:202][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-02.38.15:202][ 43]PIE: New page: PIE session: MapadeMarianoSinEnemigos (31 Jan 2021, 04:38:15)
+[2021.01.31-02.38.15:225][ 43]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos
+[2021.01.31-02.38.15:346][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121101s)
+[2021.01.31-02.38.15:347][ 43]LogAIModule: Creating AISystem for world MapadeMarianoSinEnemigos
+[2021.01.31-02.38.15:348][ 43]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2021.01.31-02.38.15:348][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos to /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos (0.123049s)
+[2021.01.31-02.38.15:361][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.31-02.38.15:364][ 43]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.31-02.38.15:364][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-02.38.15:364][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-02.38.15:364][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-02.38.15:364][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-02.38.15:364][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-02.38.15:364][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-02.38.15:364][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-02.38.15:364][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-02.38.15:365][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-02.38.15:365][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-02.38.15:367][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-02.38.15:367][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-02.38.15:373][ 43]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.31-02.38.15:373][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-02.38.15:373][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-02.38.15:373][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-02.38.15:373][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-02.38.15:373][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-02.38.15:373][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-02.38.15:385][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-02.38.15:385][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-02.38.15:385][ 43]LogInit: FAudioDevice initialized.
+[2021.01.31-02.38.15:385][ 43]LogAudio: Display: Audio Device (ID: 3) registered with world 'MapadeMarianoSinEnemigos'.
+[2021.01.31-02.38.15:394][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-02.38.15:442][ 43]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos up for play (max tick rate 0) at 2021.01.31-03.38.15
+[2021.01.31-02.38.15:443][ 43]LogWorld: Bringing up level for play took: 0.048133
+[2021.01.31-02.38.15:443][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.31-02.38.15:501][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.15:501][ 43]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.31-02.38.15:501][ 43]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.31-02.38.15:501][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.31-02.38.15:502][ 43]PIE: Server logged in
+[2021.01.31-02.38.15:502][ 43]PIE: Play in editor total start time 0.302 seconds.
+[2021.01.31-02.38.16:243][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.16:243][ 85]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.31-02.38.16:243][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.31-02.38.17:286][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.17:286][154]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos
+[2021.01.31-02.38.17:287][154]LogWorld: UWorld::CleanupWorld for MapadeMarianoSinEnemigos, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.38.17:297][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.17:306][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-02.38.17:311][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.17:324][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-02.38.17:325][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.38.17:326][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.38.17:340][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.17:364][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.31-02.38.17:393][155]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.31-02.38.20:456][477]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-02.38.20:465][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-02.38.20:465][477]PIE: New page: PIE session: MapadeMarianoSinEnemigos (31 Jan 2021, 04:38:20)
+[2021.01.31-02.38.20:495][477]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos
+[2021.01.31-02.38.20:614][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119461s)
+[2021.01.31-02.38.20:616][477]LogAIModule: Creating AISystem for world MapadeMarianoSinEnemigos
+[2021.01.31-02.38.20:616][477]LogPlayLevel: PIE: World Init took: (0.001909s)
+[2021.01.31-02.38.20:617][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos to /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos (0.121757s)
+[2021.01.31-02.38.20:631][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.31-02.38.20:632][477]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.31-02.38.20:632][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-02.38.20:632][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-02.38.20:632][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-02.38.20:632][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-02.38.20:632][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-02.38.20:632][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-02.38.20:632][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-02.38.20:632][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-02.38.20:633][477]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-02.38.20:633][477]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-02.38.20:635][477]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-02.38.20:635][477]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-02.38.20:641][477]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.31-02.38.20:642][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-02.38.20:642][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-02.38.20:642][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-02.38.20:642][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-02.38.20:642][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-02.38.20:642][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-02.38.20:653][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-02.38.20:653][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-02.38.20:653][477]LogInit: FAudioDevice initialized.
+[2021.01.31-02.38.20:653][477]LogAudio: Display: Audio Device (ID: 4) registered with world 'MapadeMarianoSinEnemigos'.
+[2021.01.31-02.38.20:665][477]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-02.38.20:713][477]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos up for play (max tick rate 0) at 2021.01.31-03.38.20
+[2021.01.31-02.38.20:714][477]LogWorld: Bringing up level for play took: 0.049388
+[2021.01.31-02.38.20:714][477]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.31-02.38.20:774][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.20:774][477]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.31-02.38.20:774][477]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.31-02.38.20:774][477]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.31-02.38.20:774][477]PIE: Server logged in
+[2021.01.31-02.38.20:775][477]PIE: Play in editor total start time 0.311 seconds.
+[2021.01.31-02.38.21:389][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.21:390][508]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.31-02.38.21:390][508]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.31-02.38.30:722][132]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5524.678 Y=3697.542 Z=819.377] for [FirstPersonProjectile_C]
+[2021.01.31-02.38.33:583][322]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4320.767 Y=3554.994 Z=1533.848] for [FirstPersonProjectile_C]
+[2021.01.31-02.38.36:221][499]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4191.142 Y=4230.977 Z=2089.985] for [FirstPersonProjectile_C]
+[2021.01.31-02.38.50:875][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.50:875][479]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos
+[2021.01.31-02.38.50:877][479]LogWorld: UWorld::CleanupWorld for MapadeMarianoSinEnemigos, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.38.50:886][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.50:898][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-02.38.50:904][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.50:924][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.50:925][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.38.50:925][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.38.50:951][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.31-02.38.50:982][480]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.31-02.38.51:865][576]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-02.38.51:874][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-02.38.51:874][576]PIE: New page: PIE session: MapadeMarianoSinEnemigos (31 Jan 2021, 04:38:51)
+[2021.01.31-02.38.51:874][576]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos
+[2021.01.31-02.38.51:993][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117998s)
+[2021.01.31-02.38.51:994][576]LogAIModule: Creating AISystem for world MapadeMarianoSinEnemigos
+[2021.01.31-02.38.51:995][576]LogPlayLevel: PIE: World Init took: (0.001854s)
+[2021.01.31-02.38.51:995][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos to /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos (0.120091s)
+[2021.01.31-02.38.52:010][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.31-02.38.52:011][576]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.31-02.38.52:011][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-02.38.52:011][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-02.38.52:011][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-02.38.52:011][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-02.38.52:011][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-02.38.52:012][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-02.38.52:012][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-02.38.52:012][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-02.38.52:012][576]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-02.38.52:012][576]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-02.38.52:014][576]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-02.38.52:014][576]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-02.38.52:021][576]LogAudioMixer: Display: Using Audio Device DIGITAL TV (NVIDIA High Definition Audio)
+[2021.01.31-02.38.52:021][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-02.38.52:021][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-02.38.52:021][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-02.38.52:021][576]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-02.38.52:021][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-02.38.52:021][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-02.38.52:032][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-02.38.52:032][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-02.38.52:032][576]LogInit: FAudioDevice initialized.
+[2021.01.31-02.38.52:032][576]LogAudio: Display: Audio Device (ID: 5) registered with world 'MapadeMarianoSinEnemigos'.
+[2021.01.31-02.38.52:041][576]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-02.38.52:088][576]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos.MapadeMarianoSinEnemigos up for play (max tick rate 0) at 2021.01.31-03.38.52
+[2021.01.31-02.38.52:089][576]LogWorld: Bringing up level for play took: 0.047183
+[2021.01.31-02.38.52:090][576]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.31-02.38.52:146][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.52:146][576]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.31-02.38.52:146][576]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.31-02.38.52:146][576]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.31-02.38.52:147][576]PIE: Server logged in
+[2021.01.31-02.38.52:147][576]PIE: Play in editor total start time 0.273 seconds.
+[2021.01.31-02.38.53:525][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.53:525][657]LogWorld: BeginTearingDown for /Game/Platformer/Maps/UEDPIE_0_MapadeMarianoSinEnemigos
+[2021.01.31-02.38.53:527][657]LogWorld: UWorld::CleanupWorld for MapadeMarianoSinEnemigos, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.38.53:536][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.53:545][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-02.38.53:550][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.38.53:564][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.38.53:571][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.38.53:572][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.38.53:595][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.31-02.38.53:616][658]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.31-02.39.00:414][417]Cmd: SELECT NONE
+[2021.01.31-02.39.01:275][505]Cmd: SELECT NONE
