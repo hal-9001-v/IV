@@ -831,3 +831,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-02.36.19:202][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.31-02.36.19:212][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2021.01.31-02.36.19:236][409]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.01.31-02.36.30:784][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CheckPoint2.CheckPoint2
+[2021.01.31-02.36.31:449][571]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.01.31-02.36.32:249][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.31-02.36.32:551][571]LogLinker: Warning: Failed to load '/Game/Platformer/Maps/test.test:PersistentLevel.test': Can't resolve asset name
+[2021.01.31-02.36.32:565][571]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Sprites/coin.coin
+[2021.01.31-02.36.32:570][571]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.01.31-02.36.32:648][571]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Sprites/flag.flag
+[2021.01.31-02.36.32:697][571]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/GUI.GUI
+[2021.01.31-02.36.33:047][571]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Sprites/heart_pixel_art_254x254.heart_pixel_art_254x254
