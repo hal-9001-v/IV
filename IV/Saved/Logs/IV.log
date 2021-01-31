@@ -840,3 +840,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-02.36.32:648][571]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Sprites/flag.flag
 [2021.01.31-02.36.32:697][571]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/GUI.GUI
 [2021.01.31-02.36.33:047][571]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Sprites/heart_pixel_art_254x254.heart_pixel_art_254x254
+[2021.01.31-02.36.53:460][380]LogSlate: Window 'heart_pixel_art_254x254' being destroyed
+[2021.01.31-02.36.53:463][380]LogSlate: Window 'heart_pixel_art_254x254' being destroyed
+[2021.01.31-02.36.53:471][380]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.36.53:471][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.36.53:518][380]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-02.36.53:518][380]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.36.53:518][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.36.53:593][380]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.36.53:593][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.36.53:605][380]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.36.53:605][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
