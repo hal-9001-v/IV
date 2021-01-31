@@ -38,12 +38,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -53,6 +47,12 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -216,8 +216,7 @@
 		{
 			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
 			]
 		},
 		{
@@ -248,24 +247,6 @@
 			"ShaderMapHash": "FB4DFF73BEA8F541962BC3DBFCDC9CFE93C14796",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Particles/Materials/M_Spark.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "59003A9E11A8255F8B7F4EEC04AB8F5A29703605",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Metal_Black_Parent.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "961E8B9F65E9008D0B30029825D459E592D3A1B8",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Crate_Light_Parent.uasset"
 			]
 		},
 		{
@@ -311,6 +292,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
@@ -320,12 +307,6 @@
 			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
-			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
 			]
 		},
 		{
@@ -341,9 +322,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "88CCAEDC5798F3690F605812558FC6EDFEF41D04",
+			"ShaderMapHash": "961E8B9F65E9008D0B30029825D459E592D3A1B8",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Cloud.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Crate_Light_Parent.uasset"
 			]
 		},
 		{
@@ -362,9 +343,9 @@
 		{
 			"ShaderMapHash": "BEA485E86FB51B31C7CB2391BF15D5B0CEB2D5C2",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/BeanStalks_Materials/M_StoneBlock.uasset",
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/BeanStalks_Materials/M_BeanStalk.uasset",
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/BeanStalks_Materials/M_Leaf.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/BeanStalks_Materials/M_Leaf.uasset",
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/BeanStalks_Materials/M_StoneBlock.uasset"
 			]
 		},
 		{
@@ -380,27 +361,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C512F332045A2A76B7EE5E691662457957CA0A73",
+			"ShaderMapHash": "2F7A9234B8A1CD06E24CEF5C193E3AEE2CAA27A8",
 			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/Materials/CelShaderV2.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "3BCF82E966D1B828E3B2AA7D16E33A9901BBAF9A",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/AdvancedCelShader/CelShader/PresetsV2/CelShaderV2_Radioactive.uasset"
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Plastic_black_Parent.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "95BC18F9C153F16F4CAE6821EB770621C3BF9C83",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Plastic_Blue_Pattern_Parent.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2F7A9234B8A1CD06E24CEF5C193E3AEE2CAA27A8",
-			"Assets": [
-				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Plastic_black_Parent.uasset"
 			]
 		},
 		{
@@ -413,6 +382,24 @@
 			"ShaderMapHash": "94CB72591BFB1AA0F8993301571CBEC81649DBD4",
 			"Assets": [
 				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59003A9E11A8255F8B7F4EEC04AB8F5A29703605",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Metal_Black_Parent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "88CCAEDC5798F3690F605812558FC6EDFEF41D04",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/Platformer/Materials/M_Cloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FCAC9CD95037A5AD3304161E9E9FFB366B34A74F",
+			"Assets": [
+				"C:/Users/Usuario/Documents/GitHub/IV/IV/Content/StarterContent/Materials/M_AssetPlatform.uasset"
 			]
 		},
 		{

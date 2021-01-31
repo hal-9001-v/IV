@@ -73,6 +73,7 @@ Windows.Engine:/Script/LuminPlatformEditor.MagicLeapSDKSettings:MLSDKPath:0=(Pat
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:0=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/Default.Default"',Map="/Engine/Maps/Templates/Template_Default")
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:1=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/TimeOfDay.TimeOfDay"',Map="/Engine/Maps/Templates/TimeOfDay_Default")
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:2=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/VR-Basic.VR-Basic"',Map="/Engine/Maps/Templates/VR-Basic")
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:None:0=======
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:AutoSaveIndex:0=0
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:0=/Engine/EditorMaterials/Cross
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:1=/Engine/EditorMaterials/Cross_Mat
@@ -2047,6 +2048,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:UsingXGE:0=False
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandCustomClassPickerClassList:0=True
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:0=(Parent="Matinee", CommandName="Matinee_PlayForward", Description="Matinee_PlayForward_Desc", ExecCommand="Matinee Play")
@@ -4338,9 +4340,9 @@ RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F=2
 OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=4
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
+VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
-VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17
 AudioSynesthesiaVer:82E77C4E332343A5B46B13C597310DF3=0
